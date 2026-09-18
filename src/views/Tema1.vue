@@ -210,7 +210,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/img13.png", alt="Salsa carbonara")
+              img(src="@/assets/curso/tema1/img13.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 <b>Salsa carbonara</b>
             p.mb-0 Es una preparación tradicional italiana cuya receta se caracteriza por no incorporar nata ni crema de leche. Se elabora principalmente con huevo, queso pecorino romano —o parmesano en algunas versiones—, guanciale y pimienta negra. Para obtener su característica textura cremosa, la mezcla de huevo y queso se integra con la pasta caliente fuera del fuego, evitando que el huevo se coagule en exceso. Se utiliza tradicionalmente con spaghetti y otras pastas largas.
@@ -219,7 +219,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/img14.png", alt="Salsa Alfredo")
+              img(src="@/assets/curso/tema1/img14.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 <b>Salsa Alfredo</b>
             p.mb-0 Originaria de Roma, en su versión tradicional se prepara con mantequilla y queso parmesano, que se integran con la pasta y parte del agua de cocción hasta obtener una textura cremosa. Algunas adaptaciones contemporáneas incorporan crema de leche para aumentar su cremosidad. Se emplea principalmente con fettuccine, preparación conocida como fettuccine Alfredo.
@@ -228,8 +228,8 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/img15.png", alt="Salsa cuatro quesos")
-          .crd_hover_txt--body
+              img(src="@/assets/curso/tema1/img15.png", alt="")
+          .crd_hover_txt--body.pd-1-2
             h4.mb-3 <b>Salsa cuatro quesos (quattro formaggi)</b>
             p.mb-0 Se caracteriza por combinar cuatro variedades de queso para obtener una preparación cremosa y de sabor intenso. Puede elaborarse con mozzarella, gorgonzola, parmesano y un queso de sabor más suave, como fontina o ricotta. La combinación debe procurar un equilibrio entre sabor, aroma y textura. Esta salsa puede acompañar pastas cortas, como penne y rigatoni, así como ñoquis.
 
@@ -377,7 +377,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/img21.png", alt="Salsa vongole")
+              img(src="@/assets/curso/tema1/img21.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 <b>Salsa vongole</b>
             p.mb-0 Se prepara principalmente con almejas, aunque algunas versiones pueden incorporar otros moluscos. Al cocinarse, estos aportan el sabor característico de la preparación. Existen dos variantes principales: <em>vongole in bianco</em>, elaborada con aceite de oliva, ajo, vino blanco y perejil, y <em>vongole rosso</em>, que incorpora tomate. Se sirve tradicionalmente con linguine o spaghetti.
@@ -386,16 +386,16 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/img22.png", alt="Salsa de mariscos mixtos (pescatore)")
-          .crd_hover_txt--body
-            h4.mb-3 <b>Salsa de mariscos mixtos (pescatore)</b>
+              img(src="@/assets/curso/tema1/img22.png", alt="")
+          .crd_hover_txt--body.pd-1-2
+            h4.mb-4.mb-lg-3 <b>Salsa de mariscos mixtos (pescatore)</b>
             p.mb-0 Se caracteriza por combinar diferentes productos del mar, como camarones, calamares, mejillones, almejas y pulpo. Puede prepararse con una base de tomate o mediante una combinación de aceite de oliva, ajo y vino blanco. La variedad de mariscos aporta intensidad de sabor y diferentes texturas a la preparación.
     
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema1/img23.png", alt="Salsa gamberi")
+              img(src="@/assets/curso/tema1/img23.png", alt="")
           .crd_hover_txt--body
             h4.mb-3 <b>Salsa gamberi</b>
             p.mb-0 Tiene como ingrediente principal el camarón, acompañado generalmente de ajo, vino blanco, aceite de oliva y perejil. Puede elaborarse con o sin tomate, según la variante seleccionada. Se utiliza principalmente para acompañar pastas largas, como spaghetti y linguine.

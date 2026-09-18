@@ -99,7 +99,7 @@
           img(src="@/assets/curso/tema5/img05.png", data-aos="zoom-in")
 
       .col-lg-7.order-2.order-lg-1.col-md-12.mb-0
-        .bg-fondo-01.p-5
+        .bg-fondo-01.p-3.p-lg-5
           SlyderA(tipo="b").bg-color-white.p-4.tarjeta
             .tarjeta.p-4.h-100
               h4.mb-2 Enjuagar envases antes de reciclar
@@ -597,7 +597,7 @@
         figure
           img(src="@/assets/curso/tema5/img35.png", data-aos="zoom-in")
       .col-lg-7.order-2.order-lg-2.col-md-12.mb-0
-        .bg-fondo-01.p-5
+        .bg-fondo-01.p-3.p-lg-5
           SlyderA(tipo="b").bg-color-white.p-4.tarjeta
             .tarjeta.p-4.h-100
               .row.align-items-center.mb-0

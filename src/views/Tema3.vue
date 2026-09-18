@@ -27,8 +27,8 @@
     .row.mb-3.justify-content-center.align-items-center
       .col-xl-10.col-lg-12
         figure
-          img(src="@/assets/curso/tema3/img03.png", alt="Receta estándar: Pesto alla Genovese", data-aos="zoom-in").d-none.d-lg-block
-          img(src="@/assets/curso/tema3/img04.png", alt="Receta estándar: Pesto alla Genovese", data-aos="zoom-in").d-block.d-lg-none
+          img(src="@/assets/curso/tema3/img03.png", alt="", data-aos="zoom-in").d-none.d-lg-block
+          img(src="@/assets/curso/tema3/img04.png", alt="", data-aos="zoom-in").d-block.d-lg-none
 
 
     separador
