@@ -52,7 +52,7 @@
           img(src="@/assets/curso/tema1/img04.png", data-aos="zoom-in")
       .col-lg-8.order-2.order-lg-1.mb-0.mb-lg-0
         p.mb-3 En Italia, la pasta se consume tradicionalmente como primo piatto (primer plato), antes del plato principal de carne o pescado. La salsa es la protagonista que define el carácter del plato. 
-        .bg-color-01.p-4.br-15.mb-0
+        .bg-color-09.p-4.br-15.mb-0
           p.mb-0(data-aos="fade-right") Según Bernasconi y Teubner (2004), en el norte de Italia las salsas suelen ser más ligeras, a base de mantequilla, queso y hierbas, mientras que en el sur predominan las salsas de tomate con sabores intensos y contundentes. Esta diversidad regional refleja la riqueza de la gastronomía italiana y la importancia de las salsas como expresión de la identidad culinaria local.
 
 

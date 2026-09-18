@@ -204,7 +204,7 @@
           img(src="@/assets/curso/tema5/img07.png", data-aos="zoom-in")
       .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
         p.mb-3 La gestión integral de residuos comprende una secuencia de acciones que inicia desde el momento en que estos se generan y continúa con su separación, almacenamiento y recolección, hasta determinar su aprovechamiento o disposición final. 
-        .bg-color-10.p-4.br-15.mb-0
+        .bg-color-04.p-4.br-15.mb-0
           p.mb-0(data-aos="fade-right") En los establecimientos gastronómicos, comprender este proceso permite aplicar prácticas adecuadas para el manejo de los residuos derivados de la elaboración de alimentos. A continuación, se presentan las principales etapas que conforman este ciclo y la relación existente entre ellas.
 
     .row.justify-content-center.mb-4
