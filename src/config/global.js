@@ -18,14 +18,6 @@ export default {
         clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
         imagen: '@/assets/curso/portada/banner-principal-decorativo-3.png',
       },
-      {
-        clases: ['banner-principal-decorativo-4', 'd-none', 'd-lg-block'],
-        imagen: '@/assets/curso/portada/banner-principal-decorativo-4.png',
-      },
-      {
-        clases: ['banner-principal-decorativo-5', 'd-none', 'd-lg-block'],
-        imagen: '@/assets/curso/portada/banner-principal-decorativo-5.png',
-      },
     ],
   },
   menuPrincipal: {
