@@ -41,7 +41,7 @@
               tr
                 td Nombre de la salsa
                 td Denominación comercial
-                td Pesto alla genovese
+                td <em>Pesto alla genovese</em>
               tr
                 td Número de porciones
                 td Cantidad de porciones que produce la receta
@@ -73,7 +73,7 @@
               tr
                 td Rendimiento
                 td Cantidad total producida
-                td Aproximadamente 200 ml de pesto
+                td Aproximadamente 200 ml de <em>pesto</em>
               tr
                 td Costo por porción
                 td Sumatoria de costos de ingredientes por porción
@@ -120,7 +120,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.svg")
-          h3.titulo-con-imagen__texto Salsas crudas o en frío (como pesto, algunas salsas de tomate fresco)
+          h3.titulo-con-imagen__texto Salsas crudas o en frío (como <em>pesto</em>, algunas salsas de tomate fresco)
   
   
     .row.mb-3.justify-content-center.align-items-center
@@ -141,7 +141,7 @@
               .col-8
                 img(src='@/assets/curso/tema2/img06.svg' alt='', style="width: 90px; height: 90px; ").mx-auto
             h4.text-center Triturado o machacado
-            p.text-center.mb-0 Tradicionalmente, el pesto se prepara en un mortero de mármol (el método preferido por los puristas) machacando los ingredientes con movimientos circulares. Actualmente también se usa la batidora o el procesador de alimentos, aunque el resultado varía ligeramente en textura.
+            p.text-center.mb-0 Tradicionalmente, el <em>pesto</em> se prepara en un mortero de mármol (el método preferido por los puristas) machacando los ingredientes con movimientos circulares. Actualmente también se usa la batidora o el procesador de alimentos, aunque el resultado varía ligeramente en textura.
 
           .tarjeta.tarjeta--blanca.shadow-sm.bg-color-8.p-4.h-100
             .row.justify-content-center.mb-3
@@ -155,7 +155,7 @@
               .col-8
                 img(src='@/assets/curso/tema2/img08.svg' alt='', style="width: 90px; height: 90px; ").mx-auto
             h4.text-center Incorporación de quesos (opcional)
-            p.text-center.mb-0 En salsas como el pesto, los quesos rallados se incorporan al final, mezclando suavemente.
+            p.text-center.mb-0 En salsas como el <em>pesto</em>, los quesos rallados se incorporan al final, mezclando suavemente.
 
 
     separador
@@ -172,7 +172,7 @@
           div(titulo="Textura")
             .row.align-items-center.justify-content-center
               .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-1
-                p.mb-0.ms-0.ms-lg-5 La salsa debe tener la consistencia adecuada para el tipo de pasta con la que se sirve. Las salsas para pastas largas (spaghetti, linguine) deben ser fluidas pero no aguadas, para que recubran la pasta sin escurrirse. Las salsas para pastas cortas (penne, rigatoni) pueden ser más espesas o con trozos, ya que la forma de la pasta ayuda a retener la salsa. Según el libro recetas de cocina italiana (Recetas de Rechupete, 2025), una salsa carbonara debe tener una textura cremosa y no debe cuajar el huevo.
+                p.mb-0.ms-0.ms-lg-5 La salsa debe tener la consistencia adecuada para el tipo de pasta con la que se sirve. Las salsas para pastas largas (<em>spaghetti</em>, <em>linguine</em>) deben ser fluidas pero no aguadas, para que recubran la pasta sin escurrirse. Las salsas para pastas cortas (<em>penne</em>, <em>rigatoni</em>) pueden ser más espesas o con trozos, ya que la forma de la pasta ayuda a retener la salsa. Según el libro recetas de cocina italiana (Recetas de Rechupete, 2025), una salsa <em>carbonara</em> debe tener una textura cremosa y no debe cuajar el huevo.
               .col-lg-4.col-md-8.mb-0.mb-lg-0.order-2.order-lg-2
                 figure
                   img(src="@/assets/curso/tema2/img09.png", data-aos="zoom-in")
@@ -188,7 +188,7 @@
           div(titulo="Color")
             .row.align-items-center.justify-content-center
               .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-1
-                p.mb-0.ms-0.ms-lg-5 El color debe ser atractivo y corresponder a los ingredientes utilizados. El pesto debe tener un color verde brillante; para evitar que la albahaca se oscurezca, se puede escaldar muy rápidamente (5 segundos) en agua hirviendo y luego enfriar en agua con hielo.
+                p.mb-0.ms-0.ms-lg-5 El color debe ser atractivo y corresponder a los ingredientes utilizados. El <em>pesto</em> debe tener un color verde brillante; para evitar que la albahaca se oscurezca, se puede escaldar muy rápidamente (5 segundos) en agua hirviendo y luego enfriar en agua con hielo.
               .col-lg-4.col-md-8.mb-0.mb-lg-0.order-2.order-lg-2
                 figure
                   img(src="@/assets/curso/tema2/img11.png", data-aos="zoom-in")
@@ -196,7 +196,7 @@
           div(titulo="Temperatura de servicio")
             .row.align-items-center.justify-content-center
               .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-1
-                p.mb-0.ms-0.ms-lg-5 Las salsas calientes (ragú, tomate, crema) deben servirse a temperatura alta (65-75 °C). Las salsas frías o a temperatura ambiente (pesto) no deben calentarse (el calor degrada el color y sabor de la albahaca).
+                p.mb-0.ms-0.ms-lg-5 Las salsas calientes (ragú, tomate, crema) deben servirse a temperatura alta (65-75 °C). Las salsas frías o a temperatura ambiente (<em>pesto</em>) no deben calentarse (el calor degrada el color y sabor de la albahaca).
               .col-lg-4.col-md-8.mb-0.mb-lg-0.order-2.order-lg-2
                 figure
                   img(src="@/assets/curso/tema2/img12.png", data-aos="zoom-in")
@@ -284,13 +284,13 @@
         .bg-fondo-01.p-5
           SlyderA(tipo="b").bg-color-white.p-4.tarjeta
             .tarjeta.p-4.h-100
-              p.mb-0 <b>Pastas largas (spaghetti, linguine, fettuccine):</b> combinan especialmente con salsas fluidas o cremosas que pueden distribuirse a lo largo de la pasta. Entre ellas se encuentran preparaciones a base de aceite de oliva, tomate, queso o mariscos.
+              p.mb-0 <b>Pastas largas (<em>spaghetti</em>, <em>linguine</em>, <em>fettuccine</em>):</b> combinan especialmente con salsas fluidas o cremosas que pueden distribuirse a lo largo de la pasta. Entre ellas se encuentran preparaciones a base de aceite de oliva, tomate, queso o mariscos.
 
             .tarjeta.p-4.h-100
-              p.mb-0 <b>Pastas cortas y tubulares (penne, rigatoni, ziti):</b> su forma, cavidades y, en algunos casos, superficie estriada facilitan la retención de salsas espesas y de ingredientes en trozos. Son apropiadas para ragús y salsas de verduras, carnes o quesos.
+              p.mb-0 <b>Pastas cortas y tubulares (<em>penne</em>, <em>rigatoni</em>, <em>ziti</em>):</b> su forma, cavidades y, en algunos casos, superficie estriada facilitan la retención de salsas espesas y de ingredientes en trozos. Son apropiadas para ragús y salsas de verduras, carnes o quesos.
 
             .tarjeta.p-4.h-100
-              p.mb-0 <b>Pastas con formas (fusilli, farfalle, orecchiette):</b> sus pliegues, curvas y cavidades permiten retener salsas de consistencia media y pequeños ingredientes. Pueden acompañarse con pesto, salsas de verduras y otras preparaciones de textura similar.
+              p.mb-0 <b>Pastas con formas (fusilli, farfalle, orecchiette):</b> sus pliegues, curvas y cavidades permiten retener salsas de consistencia media y pequeños ingredientes. Pueden acompañarse con <em>pesto</em>, salsas de verduras y otras preparaciones de textura similar.
 
             .tarjeta.p-4.h-100
               p.mb-0 <b>Pastas rellenas (ravioli, tortellini, agnolotti):</b> requieren acompañamientos que complementen el sabor del relleno sin predominar sobre él. Pueden servirse con mantequilla y hierbas, salsas ligeras o caldos, según el tipo de pasta y relleno.

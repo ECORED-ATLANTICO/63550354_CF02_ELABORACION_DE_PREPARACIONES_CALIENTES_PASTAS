@@ -71,17 +71,17 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Carbonara.',
+              texto: '<em>Carbonara</em>.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Pesto alla genovese.',
+              texto: '<em>Pesto alla genovese</em>.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Arrabbiata.',
+              texto: '<em>Arrabbiata</em>.',
               esCorrecta: true,
             },
             {
@@ -91,7 +91,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Muy bien. La salsa Arrabbiata, cuyo nombre significa "enojada" en italiano, es originaria de Roma y se caracteriza por su sabor picante gracias a la guindilla o peperoncino.',
+            'Muy bien. La salsa <em>Arrabbiata</em>, cuyo nombre significa "enojada" en italiano, es originaria de Roma y se caracteriza por su sabor picante gracias a la guindilla o <em>peperoncino</em>.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -132,7 +132,7 @@ export default {
         {
           id: 4,
           texto:
-            '¿Cuál de los siguientes ingredientes NO pertenece a la receta tradicional de la salsa Carbonara?',
+            '¿Cuál de los siguientes ingredientes NO pertenece a la receta tradicional de la salsa <em>Carbonara</em>?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
@@ -153,19 +153,19 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Panceta o guanciale.',
+              texto: 'Panceta o <em>guanciale</em>.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Excelente. La receta original de la carbonara no lleva crema de leche. Su textura cremosa se logra únicamente con huevos, queso y un poco del agua de cocción de la pasta.',
+            'Excelente. La receta original de la <em>carbonara</em> no lleva crema de leche. Su textura cremosa se logra únicamente con huevos, queso y un poco del agua de cocción de la pasta.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 5,
           texto:
-            '¿Cuál es el método de preparación tradicional y el más recomendado para elaborar una salsa Pesto alla genovese?',
+            '¿Cuál es el método de preparación tradicional y el más recomendado para elaborar una salsa <em>Pesto alla genovese</em>?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
@@ -191,7 +191,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Muy bien. El término "pesto" proviene del genovés "pestare", que significa machacar. El método tradicional en mortero es el preferido para obtener la textura y el sabor característicos.',
+            'Muy bien. El término "<em>pesto</em>" proviene del genovés "<em>pestare</em>", que significa machacar. El método tradicional en mortero es el preferido para obtener la textura y el sabor característicos.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -434,7 +434,7 @@ export default {
         {
           id: 13,
           texto:
-            'Según el componente formativo, ¿cuál es el origen de la palabra "pesto"?',
+            'Según el componente formativo, ¿cuál es el origen de la palabra "<em>pesto</em>"?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
@@ -446,7 +446,7 @@ export default {
             {
               id: 'b',
               texto:
-                'Del genovés "pestare", que significa machacar o moler en un mortero.',
+                'Del genovés "<em>pestare</em>", que significa machacar o moler en un mortero.',
               esCorrecta: true,
             },
             {
@@ -461,7 +461,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente. La palabra pesto proviene del genovés "pestare", que significa machacar o moler en un mortero, que es la forma tradicional de preparar esta salsa.',
+            'Excelente. La palabra <em>pesto</em> proviene del genovés "<em>pestare</em>", que significa machacar o moler en un mortero, que es la forma tradicional de preparar esta salsa.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -579,7 +579,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Salsa carbonara con panceta.',
+              texto: 'Salsa <em>carbonara</em> con panceta.',
               esCorrecta: false,
             },
             {
@@ -589,7 +589,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Salsa arrabbiata picante.',
+              texto: 'Salsa <em>arrabbiata</em> picante.',
               esCorrecta: false,
             },
           ],

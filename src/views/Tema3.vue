@@ -81,7 +81,7 @@
         .bg-color-02.p-4.br-15.h-100.align-content-center
           .row.align-items-center
             .col-8.col-sm-12.col-md-9
-              p.mb-0 Para salsas emulsionadas (como el pesto), el escalado de líquidos y sólidos debe ser proporcional, pero la técnica de emulsión puede requerir ajustes (más tiempo de procesado).
+              p.mb-0 Para salsas emulsionadas (como el <em>pesto</em>), el escalado de líquidos y sólidos debe ser proporcional, pero la técnica de emulsión puede requerir ajustes (más tiempo de procesado).
             .col-4.col-sm-3.col-md-3.d-none.d-lg-block
               figure
                 img(src="@/assets/curso/tema3/img06.svg")
