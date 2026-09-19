@@ -315,8 +315,8 @@
         figure
           img(src="@/assets/curso/tema5/img14.png", data-aos="zoom-in")
       .col-lg-7.order-2.order-lg-2.col-md-12.mb-0
-        .bg-fondo-01.p-4
-          SlyderA(tipo="b").bg-color-white.p-4.tarjeta
+        .bg-fondo-01.p-lg-4.p-3
+          SlyderA(tipo="b").bg-color-white.p-3.p-lg-4.tarjeta
             .tarjeta.p-4.h-100
               .row.align-items-center.mb-0
                 .col-lg

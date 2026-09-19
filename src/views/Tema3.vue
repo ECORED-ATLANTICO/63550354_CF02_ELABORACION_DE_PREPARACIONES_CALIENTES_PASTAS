@@ -59,30 +59,30 @@
     p.mb-4 Advertencias sobre el escalado de salsas:
 
     .row.mb-4.justify-content-center
-      .col-lg-4.col-md-6.mb-4.mb-lg-0
+      .col-xl-4.col-lg-6.col-md-6.mb-4.mb-xl-0
         .bg-color-02.p-4.br-15.h-100.align-content-center
           .row.align-items-center
-            .col-8.col-sm-12.col-md-9
+            .col-sm-12.col-lg-9
               p.mb-0 Los tiempos de cocción no se multiplican por el factor de conversión; ollas más grandes pueden requerir más tiempo para alcanzar temperatura, pero la cocción final no se multiplica linealmente.
-            .col-4.col-sm-3.col-md-3.d-none.d-lg-block
+            .col-sm-3.col-lg-3.d-none.d-lg-block
               figure
                 img(src="@/assets/curso/tema3/img06.svg")
 
-      .col-lg-4.col-md-6.mb-4.mb-lg-0
+      .col-xl-4.col-lg-6.col-md-6.mb-4.mb-xl-0
         .bg-color-02.p-4.br-15.h-100.align-content-center
           .row.align-items-center
-            .col-8.col-sm-12.col-md-9
+            .col-sm-12.col-lg-9
               p.mb-0 Las especias y condimentos fuertes (guindilla, ajo, sal) pueden escalarse en menor proporción para evitar sabores excesivamente intensos. Se recomienda aumentar la cantidad gradualmente y probar.
-            .col-4.col-sm-3.col-md-3.d-none.d-lg-block
+            .col-sm-3.col-lg-3.d-none.d-lg-block
               figure
                 img(src="@/assets/curso/tema3/img06.svg")
 
-      .col-lg-4.col-md-6.mb-0-lg-0
+      .col-xl-4.col-lg-6.col-md-6.mb-0-lg-0
         .bg-color-02.p-4.br-15.h-100.align-content-center
           .row.align-items-center
-            .col-8.col-sm-12.col-md-9
-              p.mb-0 Para salsas emulsionadas (como el <em>pesto</em>), el escalado de líquidos y sólidos debe ser proporcional, pero la técnica de emulsión puede requerir ajustes (más tiempo de procesado).
-            .col-4.col-sm-3.col-md-3.d-none.d-lg-block
+            .col-sm-12.col-lg-9
+              p.mb-0 Para salsas emulsionadas (como el pesto), el escalado de líquidos y sólidos debe ser proporcional, pero la técnica de emulsión puede requerir ajustes (más tiempo de procesado).
+            .col-sm-3.col-lg-3.d-none.d-lg-block
               figure
                 img(src="@/assets/curso/tema3/img06.svg")
 

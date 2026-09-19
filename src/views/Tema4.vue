@@ -114,7 +114,7 @@
                 td Envolturas de carne (plástico), restos de grasa y huesos (si se usan cortes con hueso), envases de vino (vidrio)
                 td Blanco (envases limpios de vidrio), Verde (restos de grasa? No, la grasa no es orgánica compostable en pequeñas cantidades; consultar normativa local)
               tr
-                td Elaboración de <em>pesto</em>
+                td Elaboración de pesto
                 td Envases de aceite (vidrio o plástico), frascos de queso rallado, restos de albahaca (tallos)
                 td Blanco (envases limpios), Verde (tallos de albahaca)
               tr

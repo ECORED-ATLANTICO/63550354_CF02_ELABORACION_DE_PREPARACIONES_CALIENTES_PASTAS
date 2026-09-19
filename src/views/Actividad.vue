@@ -76,7 +76,7 @@ export default {
             },
             {
               id: 'b',
-              texto: '<em>Pesto alla genovese</em>.',
+              texto: 'Pesto <em>alla genovese</em>.',
               esCorrecta: false,
             },
             {
@@ -165,7 +165,7 @@ export default {
         {
           id: 5,
           texto:
-            '¿Cuál es el método de preparación tradicional y el más recomendado para elaborar una salsa <em>Pesto alla genovese</em>?',
+            '¿Cuál es el método de preparación tradicional y el más recomendado para elaborar una salsa Pesto <em>alla genovese</em>?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
@@ -191,7 +191,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Muy bien. El término "<em>pesto</em>" proviene del genovés "<em>pestare</em>", que significa machacar. El método tradicional en mortero es el preferido para obtener la textura y el sabor característicos.',
+            'Muy bien. El término "pesto" proviene del genovés "<em>pestare</em>", que significa machacar. El método tradicional en mortero es el preferido para obtener la textura y el sabor característicos.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -434,7 +434,7 @@ export default {
         {
           id: 13,
           texto:
-            'Según el componente formativo, ¿cuál es el origen de la palabra "<em>pesto</em>"?',
+            'Según el componente formativo, ¿cuál es el origen de la palabra "pesto"?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
@@ -461,7 +461,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente. La palabra <em>pesto</em> proviene del genovés "<em>pestare</em>", que significa machacar o moler en un mortero, que es la forma tradicional de preparar esta salsa.',
+            'Excelente. La palabra pesto proviene del genovés "<em>pestare</em>", que significa machacar o moler en un mortero, que es la forma tradicional de preparar esta salsa.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },

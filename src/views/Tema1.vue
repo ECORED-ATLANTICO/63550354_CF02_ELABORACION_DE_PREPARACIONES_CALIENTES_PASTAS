@@ -95,7 +95,7 @@
                 td Centro y norte de Italia (Lazio, Emilia-Romaña, Lombardía)
               tr
                 td Salsas a base de aceite y hierbas
-                td <em>Pesto alla genovese</em>, <em>Pesto alla trapanese</em>, <em>Agliata</em>
+                td Pesto <em>alla genovese</em>, Pesto <em>alla trapanese</em>, <em>Agliata</em>
                 td Albahaca, piñones, ajo, aceite de oliva, queso
                 td Liguria (noroeste de Italia), Sicilia
               tr
@@ -262,13 +262,13 @@
                 td Duro, curado
                 td Intenso, salado, umami
                 td Granulado, se ralla fácilmente
-                td Espolvorear sobre pastas, salsas Alfredo, <em>pesto</em>
+                td Espolvorear sobre pastas, salsas Alfredo, pesto
               tr
                 td <em>Pecorino Romano</em>
                 td Duro, curado (leche de oveja)
                 td Salado, picante, intenso
                 td Granulado
-                td <em>Carbonara</em>, <em>Amatriciana</em>, <em>pesto</em>
+                td <em>Carbonara</em>, <em>Amatriciana</em>, pesto
               tr
                 td <em>Mozzarella</em>
                 td <em>Pasta filata</em>, fresco
@@ -301,9 +301,9 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.svg")
-          h3.titulo-con-imagen__texto Salsas a base de aceite y hierbas (<em>pesto</em>)
+          h3.titulo-con-imagen__texto Salsas a base de aceite y hierbas (pesto)
 
-    p.mb-4 El <em>pesto</em> es una de las salsas más emblemáticas de la cocina italiana, originaria de La Liguria. La palabra <em>pesto</em> viene del genovés <em>pestare</em>, que significa machacar o moler en un mortero, que es la forma en que tradicionalmente se prepara esta salsa (instituto gastronómico cuisine art, 2020).
+    p.mb-4 El pesto es una de las salsas más emblemáticas de la cocina italiana, originaria de La Liguria. La palabra pesto viene del genovés <em>pestare</em>, que significa machacar o moler en un mortero, que es la forma en que tradicionalmente se prepara esta salsa (instituto gastronómico cuisine art, 2020).
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-5.col-md-8.order-1.order-lg-1.mb-4.mb-lg-0
@@ -314,13 +314,13 @@
         .bg-fondo-01.p-4
           SlyderA(tipo="b").bg-color-white.p-4.tarjeta
             .tarjeta.p-4.h-100
-              p.mb-0 <b>Pesto alla genovese (<em>pesto</em> verde):</b> sus ingredientes principales son albahaca fresca (hojas tiernas), piñones, ajo, queso parmesano y/o <em>pecorino</em>, y aceite de oliva virgen extra. Se prepara tradicionalmente en un mortero, majando los ajos con sal, luego añadiendo las hojas de albahaca poco a poco con movimientos circulares, luego los piñones, y finalmente los quesos y el aceite. Si no se tiene mortero, se puede usar una batidora o procesador de alimentos, aunque el resultado no es exactamente igual.
+              p.mb-0 <b>Pesto alla genovese (pesto verde):</b> sus ingredientes principales son albahaca fresca (hojas tiernas), piñones, ajo, queso parmesano y/o <em>pecorino</em>, y aceite de oliva virgen extra. Se prepara tradicionalmente en un mortero, majando los ajos con sal, luego añadiendo las hojas de albahaca poco a poco con movimientos circulares, luego los piñones, y finalmente los quesos y el aceite. Si no se tiene mortero, se puede usar una batidora o procesador de alimentos, aunque el resultado no es exactamente igual.
 
             .tarjeta.p-4.h-100
-              p.mb-0 <b>Pesto rosso (<em>pesto</em> rojo o siciliano):</b> variante del <em>pesto</em> que se elabora con tomates secos. Este <em>pesto</em> tiene como ingrediente principal el tomate seco, aunque también puede incluir pimientos asados, queso <em>pecorino</em>, sal, aceite de oliva y, en algunas versiones, almendras en lugar de piñones.
+              p.mb-0 <b>Pesto rosso (pesto rojo o siciliano):</b> variante del pesto que se elabora con tomates secos. Este pesto tiene como ingrediente principal el tomate seco, aunque también puede incluir pimientos asados, queso <em>pecorino</em>, sal, aceite de oliva y, en algunas versiones, almendras en lugar de piñones.
 
             .tarjeta.p-4.h-100
-              p.mb-0 <b>Pesto alla trapanese:</b> originario de Trapani, Sicilia. Se trata de una salsa cruda cuyos ingredientes principales son albahaca, tomate y almendra. Se supone que los barcos genoveses que se detenían en el Puerto de Trapani dejaron la tradición del <em>pesto</em> ligur, que los marineros de Trapani elaboraron con los productos de su tierra: tomates y almendras.
+              p.mb-0 <b>Pesto alla trapanese:</b> originario de Trapani, Sicilia. Se trata de una salsa cruda cuyos ingredientes principales son albahaca, tomate y almendra. Se supone que los barcos genoveses que se detenían en el Puerto de Trapani dejaron la tradición del pesto ligur, que los marineros de Trapani elaboraron con los productos de su tierra: tomates y almendras.
 
             .tarjeta.p-4.h-100
               p.mb-0 <b>Agliata:</b> salsa típica de la ciudad de Bosa, en Cerdeña. Se prepara con ajo triturado que se sofríe en aceite de oliva con tomate seco, condimentando con abundante vinagre de vino. Con la mezcla así obtenida se aliñan principalmente pescados marinos, pero también se usa para pastas.

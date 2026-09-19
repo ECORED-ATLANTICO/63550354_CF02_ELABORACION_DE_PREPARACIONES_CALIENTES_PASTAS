@@ -10,14 +10,14 @@
     animation: float1 2.5s ease-in-out infinite alternate
     position: absolute
     top: 66%
-    right: 47%
-    width: 15%
+    right: 55%
+    width: 13%
 
   &-3
     animation: float1 2.5s ease-in-out infinite alternate
     position: absolute
     top: 30%
-    right: 11%
+    right: 2%
     width: 17%
 
   &-4
@@ -58,8 +58,10 @@ figcaption
 
 .banner-principal__row .banner-principal__img
   width: 500px !important
+  padding-right: 0 !important
   @media screen and (max-width: $bp-max-xl)
     width: 400px !important
+    padding-right: 0 !important
 
 .banner-interno__fondo
   background-image: url("../assets/curso/banner_interno.png") !important
@@ -1090,6 +1092,9 @@ a, button, div
   position: absolute
   left: -8px
   width: 90px
+  @media screen and (max-width: $bp-max-md)
+    width: 70px
+
 .titulo-con-imagen__texto
   margin: 0
   padding-left: 70px
