@@ -281,8 +281,8 @@
           img(src="@/assets/curso/tema2/img16.png", data-aos="zoom-in")
 
       .col-lg-7.order-2.order-lg-2.col-md-12.mb-0
-        .bg-fondo-01.p-5
-          SlyderA(tipo="b").bg-color-white.p-4.tarjeta
+        .bg-fondo-01.p-3.p-lg-5
+          SlyderA(tipo="b").bg-color-white.p-3.p-lg-4.tarjeta
             .tarjeta.p-4.h-100
               p.mb-0 <b>Pastas largas (<em>spaghetti</em>, <em>linguine</em>, <em>fettuccine</em>):</b> combinan especialmente con salsas fluidas o cremosas que pueden distribuirse a lo largo de la pasta. Entre ellas se encuentran preparaciones a base de aceite de oliva, tomate, queso o mariscos.
 
