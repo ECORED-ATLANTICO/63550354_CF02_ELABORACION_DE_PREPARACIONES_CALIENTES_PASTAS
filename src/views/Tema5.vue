@@ -553,7 +553,7 @@
     separador
     
     #t_5_7.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 5.7. Medidas de bioseguridad
+      h2 5.7 Medidas de bioseguridad
 
     .row.mb-5.mb-lg-5.justify-content-center.align-items-center
       .col-lg-4.col-md-12.mb-4.mb-lg-0.order-2.order-lg-1
@@ -691,7 +691,7 @@
               h4 ¿Sabías qué?
               p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente Pódcast:
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Podscat pendiente"
+                texto="Gestión de residuos en establecimientos gastronómicos: clasificación, normatividad y cierre de jornada"
                 tiempo
                 :audio="require_src('../assets/curso/audio/2.mp3')"
               )

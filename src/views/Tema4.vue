@@ -83,7 +83,7 @@
     separador
 
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.3 Identificación de residuos generados en la elaboración de pastas y salsas
+      h2 4.3 Identificación de residuos
 
     p.mb-4 En la elaboración de pastas y salsas se generan diversos tipos de residuos. Es importante identificarlos correctamente para clasificarlos en el contenedor correspondiente.
 

@@ -267,7 +267,7 @@
     separador
     
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.4. Maridaje de salsas con tipos de pasta
+      h2 2.4 Maridaje de salsas con tipos de pasta
 
     p.mb-4 El maridaje entre la pasta y la salsa responde a características como la forma, el tamaño, la superficie y la capacidad de la pasta para retener la preparación. 
   
@@ -315,9 +315,9 @@
               h4 ¿Sabías qué?
               p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente Pódcast:
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Podscat pendiente"
+                texto="Salsas para pastas: clasificación, técnicas de elaboración y maridaje"
                 tiempo
-                :audio="require_src('../assets/curso/audio/2.mp3')"
+                :audio="require_src('../assets/curso/audio/1.mp3')"
               )
   
       .col-lg-5.col-md-8.mb-4.mb-lg-0.order-1.order-lg-2

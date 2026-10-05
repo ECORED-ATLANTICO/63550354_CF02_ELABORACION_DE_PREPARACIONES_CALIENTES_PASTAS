@@ -200,7 +200,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/63550354_CF02_DU.pdf',
+        download: 'downloads/63550354_CF02_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -223,22 +223,22 @@ export default {
     {
       termino: 'Bitácora ambiental',
       significado:
-        'Registro documental donde se anotan las cantidades y tipos de residuos generados, su almacenamiento y disposición final en un establecimiento.',
+        'Registro documental donde se anotan las cantidades y los tipos de residuos generados, así como su almacenamiento y disposición final en un establecimiento.',
     },
     {
       termino: 'Carbonara',
       significado:
-        'Salsa italiana originaria de roma a base de huevos, queso (pecorino o parmesano), panceta o guanciale y pimienta negra. No lleva nata en su versión original.',
+        'Salsa italiana originaria de Roma, elaborada a base de huevos, queso (pecorino o parmesano), panceta o guanciale y pimienta negra. No lleva nata en su versión original.',
     },
     {
       termino: 'Clasificación en la fuente',
       significado:
-        'Separación de los residuos sólidos en el lugar donde se generan, según su tipo (orgánicos, aprovechables, no aprovechables).',
+        'Separación de los residuos sólidos en el lugar donde se generan, según su tipo (orgánicos, aprovechables y no aprovechables).',
     },
     {
       termino: 'Código de colores (residuos)',
       significado:
-        'Sistema establecido por la resolución 2184 de 2019 que asigna colores específicos (blanco, negro, verde) a los diferentes tipos de residuos para facilitar su clasificación.',
+        'Sistema establecido por la Resolución 2184 de 2019 que asigna colores específicos (blanco, negro, verde) a los diferentes tipos de residuos para facilitar su clasificación.',
     },
     {
       termino: 'Compostaje',
@@ -248,42 +248,42 @@ export default {
     {
       termino: 'Gestión de residuos',
       significado:
-        'Conjunto de operaciones y disposiciones para dar a los residuos el destino más adecuado desde el punto de vista ambiental, económico y sanitario.',
+        'Conjunto de operaciones y disposiciones destinadas a dar a los residuos el destino más adecuado desde el punto de vista ambiental, económico y sanitario.',
     },
     {
       termino: 'Maridaje',
       significado:
-        'Arte de combinar armoniosamente una salsa con un tipo específico de pasta o vino con un plato, para realzar sus cualidades.',
+        'Arte de combinar armoniosamente una salsa con un tipo específico de pasta, o un vino con un plato, para realzar sus cualidades.',
     },
     {
       termino: 'Pesto',
       significado:
-        'Salsa italiana originaria de liguria a base de albahaca, piñones, ajo, queso parmesano y aceite de oliva.',
+        'Salsa italiana originaria de Liguria, elaborada a base de albahaca, piñones, ajo, queso parmesano y aceite de oliva.',
     },
     {
       termino: 'Ragú',
       significado:
-        'Salsa de carne de cocción lenta, típica de la cocina italiana. La palabra proviene del francés "ragoût".',
+        'Salsa de carne de cocción lenta, típica de la cocina italiana. La palabra proviene del francés “ragoût”.',
     },
     {
       termino: 'Receta estándar',
       significado:
-        'Documento técnico que contiene información detallada y precisa sobre ingredientes, cantidades, procedimientos, tiempos de cocción, rendimiento y costos de una preparación específica.',
+        'Documento técnico que contiene información detallada y precisa sobre los ingredientes, cantidades, procedimientos, tiempos de cocción, rendimiento y costos de una preparación específica.',
     },
     {
       termino: 'Residuos aprovechables',
       significado:
-        'Materiales que pueden ser sometidos a un proceso de aprovechamiento (reciclaje, compostaje, etc.), como plásticos, vidrio, metales, papel, cartón y residuos orgánicos.',
+        'Materiales que pueden someterse a un proceso de aprovechamiento (reciclaje o compostaje, etc.), como plásticos, vidrio, metales, papel, cartón y residuos orgánicos.',
     },
     {
       termino: 'Residuos orgánicos',
       significado:
-        'Residuos de origen biológico que se descomponen naturally, como restos de alimentos, cáscaras de frutas y verduras, y residuos de jardinería.',
+        'Residuos de origen biológico que se descomponen naturalmente, como restos de alimentos, cáscaras de frutas y verduras, y residuos de jardinería.',
     },
     {
       termino: 'Residuos peligrosos',
       significado:
-        'Residuos que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o infecciosas representan un riesgo para la salud humana o el medio ambiente.',
+        'Residuos que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o infecciosas, representan un riesgo para la salud humana o el medio ambiente.',
     },
     {
       termino: 'Separación en la fuente',
@@ -348,7 +348,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+            'Profesional 06. Responsable Ecosistema de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -362,12 +362,12 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Mario Morales Cabrera',
-          cargo: 'Experto temático',
+          nombre: 'Yina Paola Castro Zarate',
+          cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jair Enrique Coll Gallardo',
+          nombre: 'María Fernanda Morales Angulo',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -377,7 +377,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta',
+          nombre: 'Andrés Felipe Herrera Roldan',
           cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -403,21 +403,21 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jonathan Adié Villafañe',
+          nombre: 'Laura Daniela Burgos Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Luis Gabriel Urueta',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
