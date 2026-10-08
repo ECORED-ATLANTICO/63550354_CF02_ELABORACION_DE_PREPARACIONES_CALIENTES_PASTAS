@@ -27,8 +27,8 @@
     .row.mb-3.justify-content-center.align-items-center
       .col-xl-10.col-lg-12
         figure
-          img(src="@/assets/curso/tema3/img03.png", alt="", data-aos="zoom-in").d-none.d-lg-block
-          img(src="@/assets/curso/tema3/img04.png", alt="", data-aos="zoom-in").d-block.d-lg-none
+          img(src="@/assets/curso/tema3/img03.png", alt="Nombre: Pesto alla genovese Rendimiento: 200 ml (suficiente para 4 porciones de pasta). Tiempo de preparación: 15 minutos. Temperatura de servicio: ambiente (no calentar).Ingredientes: 50 g de hojas de albahaca .fresca (solo hojas, sin tallos). 15 g de piñones. 1 diente de ajo pequeño . 30 g de queso parmesano. (Parmigiano-Reggiano) recién rallado. 20 g de queso pecorino romano recién rallado. 80-100 ml de aceite de oliva virgen extra. Sal marina gruesa al gusto. Procedimiento: Lavar las hojas de albahaca con agua fría y secarlas completamente (puede usarse una centrifugadora de ensaladas o secar con papel de cocina). Es importante que no quede humedad. En un mortero de mármol, colocar el diente de ajo pelado y cortado por la mitad (retirar el germen interior si es viejo) y una pizca de sal gruesa. Machacar hasta obtener una pasta. Añadir las hojas de albahaca poco a poco, machacando con movimientos circulares hasta obtener una pasta verde homogénea. Agregar los piñones y continuar machacando. Incorporar los quesos rallados y mezclar. Verter el aceite de oliva en forma de hilo mientras se continúa mezclando, hasta lograr la consistencia deseada (debe ser una salsa espesa pero fluida). Probar y rectificar la sal si es necesario. Nota importante: si se usa batidora, procesar en pulsos cortos para evitar que la albahaca se oscurezca por el calor del motor. No calentar el pesto; mezclarlo con la pasta caliente justo antes de servir. Costo por porción: $2.200 COP (aproximado).," data-aos="zoom-in").d-none.d-lg-block
+          img(src="@/assets/curso/tema3/img04.png", alt="Nombre: Pesto alla genovese Rendimiento: 200 ml (suficiente para 4 porciones de pasta). Tiempo de preparación: 15 minutos. Temperatura de servicio: ambiente (no calentar).Ingredientes: 50 g de hojas de albahaca .fresca (solo hojas, sin tallos). 15 g de piñones. 1 diente de ajo pequeño . 30 g de queso parmesano. (Parmigiano-Reggiano) recién rallado. 20 g de queso pecorino romano recién rallado. 80-100 ml de aceite de oliva virgen extra. Sal marina gruesa al gusto. Procedimiento: Lavar las hojas de albahaca con agua fría y secarlas completamente (puede usarse una centrifugadora de ensaladas o secar con papel de cocina). Es importante que no quede humedad. En un mortero de mármol, colocar el diente de ajo pelado y cortado por la mitad (retirar el germen interior si es viejo) y una pizca de sal gruesa. Machacar hasta obtener una pasta. Añadir las hojas de albahaca poco a poco, machacando con movimientos circulares hasta obtener una pasta verde homogénea. Agregar los piñones y continuar machacando. Incorporar los quesos rallados y mezclar. Verter el aceite de oliva en forma de hilo mientras se continúa mezclando, hasta lograr la consistencia deseada (debe ser una salsa espesa pero fluida). Probar y rectificar la sal si es necesario. Nota importante: si se usa batidora, procesar en pulsos cortos para evitar que la albahaca se oscurezca por el calor del motor. No calentar el pesto; mezclarlo con la pasta caliente justo antes de servir. Costo por porción: $2.200 COP (aproximado).", data-aos="zoom-in").d-block.d-lg-none
 
 
     separador
@@ -116,7 +116,7 @@
 
         .bg-color-02.p-4.br-15
           p.mb-3 Si se desea que el costo de alimentos no supere el 30 % del precio de venta del plato de pasta:
-          p.mb-0 precio de venta sugerido = (costo por porción/30) × 100 = ($3.500/30) × 100 = $11.667 COP.
+          p.mb-0 Precio de venta sugerido = (costo por porción/30) × 100 = ($3.500/30) × 100 = $11.667 COP.
 
       .col-lg-5.col-md-8
         figure

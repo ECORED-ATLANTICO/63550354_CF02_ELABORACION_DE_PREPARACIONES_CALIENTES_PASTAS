@@ -86,7 +86,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Ragú napoletano.',
+              texto: 'Ragú <em>napoletano</em>.',
               esCorrecta: false,
             },
           ],
@@ -143,7 +143,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Queso Pecorino.',
+              texto: 'Queso <em>pecorino</em>.',
               esCorrecta: false,
             },
             {
@@ -232,7 +232,7 @@ export default {
         {
           id: 7,
           texto:
-            '¿Cuál es la función principal de la "Mise en place" en la preparación de una salsa?',
+            '¿Cuál es la función principal de la "<em>Mise en place</em>" en la preparación de una salsa?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
@@ -259,7 +259,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Así es! La "Mise en place", que significa "poner en su lugar", es una filosofía de trabajo que garantiza eficiencia y orden, consistente en dejar todo listo antes de cocinar.',
+            '¡Así es! La "<em>Mise en place</em>", que significa "poner en su lugar", es una filosofía de trabajo que garantiza eficiencia y orden, consistente en dejar todo listo antes de cocinar.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -440,7 +440,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Del francés "ragoût", que significa estofado.',
+              texto: 'Del francés "<em>ragoût</em>", que significa estofado.',
               esCorrecta: false,
             },
             {
@@ -456,7 +456,8 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Del italiano "arrabbiato", que significa enojado.',
+              texto:
+                'Del italiano "<em>arrabbiato</em>", que significa enojado.',
               esCorrecta: false,
             },
           ],
@@ -501,7 +502,7 @@ export default {
         {
           id: 15,
           texto:
-            '¿Cuál es la función del "soffritto" en la preparación de salsas cocidas italianas?',
+            '¿Cuál es la función del "<em>soffritto</em>" en la preparación de salsas cocidas italianas?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
@@ -528,7 +529,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Muy bien. El soffritto es el primer paso de muchas salsas cocidas y consiste en rehogar verduras aromáticas (cebolla, zanahoria, apio, ajo) en aceite o mantequilla a fuego lento.',
+            'Muy bien. El <em>soffritto</em> es el primer paso de muchas salsas cocidas y consiste en rehogar verduras aromáticas (cebolla, zanahoria, apio, ajo) en aceite o mantequilla a fuego lento.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -568,7 +569,7 @@ export default {
         {
           id: 17,
           texto:
-            '¿Cuál es el maridaje tradicional recomendado para los ravioli o tortellini (pastas rellenas)?',
+            '¿Cuál es el maridaje tradicional recomendado para los <em>ravioli</em> o <em>tortellini</em> (pastas rellenas)?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
@@ -594,7 +595,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Muy bien. Las pastas rellenas requieren salsas ligeras que no opaque el sabor del relleno. La mantequilla con salvia es la combinación clásica para los ravioli.',
+            'Muy bien. Las pastas rellenas requieren salsas ligeras que no opaque el sabor del relleno. La mantequilla con salvia es la combinación clásica para los <em>ravioli</em>.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },

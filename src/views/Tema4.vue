@@ -30,7 +30,7 @@
           img(src="@/assets/curso/tema4/img03.png", data-aos="zoom-in")
       .col-lg-8.order-2.order-lg-1
         TabsA.color-acento-botones
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Residuos aprovechables").align-content-center
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Residuos aprovechables (reciclables)").align-content-center
             p.mb-0 Son aquellos que pueden ser sometidos a un proceso de aprovechamiento, como el reciclaje. Incluyen papel, cartón, plásticos (botellas, envases), vidrio (botellas, frascos), metales (latas) y algunos textiles.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Residuos no aprovechables").align-content-center
             p.mb-0 Son aquellos que no pueden ser reciclados o reutilizados. Incluyen papeles y cartones contaminados con alimentos (servilletas usadas, envases de comida rápida), plásticos de un solo uso no reciclables, icopor, residuos sanitarios (toallas húmedas, papel higiénico, pañuelos desechables).
@@ -74,7 +74,7 @@
               tr
                 td Negro
                 td Residuos no aprovechables
-                td Servilletas de papel usadas, papel film, papel encerado, icopor, envases de plástico de un solo uso sucios, residuos sanitarios (pañuelos desechables).
+                td Servilletas de papel usadas, papel <em>film</em>, papel encerado, icopor, envases de plástico de un solo uso sucios, residuos sanitarios (pañuelos desechables).
               tr
                 td Verde
                 td Residuos orgánicos (aprovechables para compostaje o biogás)
@@ -94,7 +94,6 @@
           span Residuos generados en la elaboración de pastas y salsas
         .tabla-a.color-acento-contenido.tb-custom.mb-0
           table
-            caption(style="font-weight: normal;") Nota. SENA (2026).
             thead
               tr
                 th Etapa del proceso
@@ -123,7 +122,7 @@
                 td Negro (servilletas usadas), Verde (pequeños restos de alimentos)
               tr
                 td Envases y embalajes
-                td Cajas de cartón, plásticos de burbuja, film transparente, papel film
+                td Cajas de cartón, plásticos de burbuja, <em>film</em> transparente, papel <em>film</em>
                 td Blanco (cajas de cartón limpias, plásticos limpios), Negro (plásticos sucios)
 
 

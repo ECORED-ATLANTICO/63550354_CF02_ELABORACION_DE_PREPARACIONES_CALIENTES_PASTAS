@@ -228,7 +228,7 @@ export default {
     {
       termino: 'Carbonara',
       significado:
-        'Salsa italiana originaria de Roma, elaborada a base de huevos, queso (pecorino o parmesano), panceta o guanciale y pimienta negra. No lleva nata en su versión original.',
+        'Salsa italiana originaria de Roma, elaborada a base de huevos, queso (<em>pecorino</em> o parmesano), panceta o <em>guanciale</em> y pimienta negra. No lleva nata en su versión original.',
     },
     {
       termino: 'Clasificación en la fuente',
@@ -243,7 +243,7 @@ export default {
     {
       termino: 'Compostaje',
       significado:
-        'Proceso biológico de descomposición controlada de residuos orgánicos para producir abono orgánico (compost).',
+        'Proceso biológico de descomposición controlada de residuos orgánicos para producir abono orgánico (<em>compost</em>).',
     },
     {
       termino: 'Gestión de residuos',
@@ -263,7 +263,7 @@ export default {
     {
       termino: 'Ragú',
       significado:
-        'Salsa de carne de cocción lenta, típica de la cocina italiana. La palabra proviene del francés “ragoût”.',
+        'Salsa de carne de cocción lenta, típica de la cocina italiana. La palabra proviene del francés <em>ragoût</em>.',
     },
     {
       termino: 'Receta estándar',
@@ -348,7 +348,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema de Recursos Educativos Digitales',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

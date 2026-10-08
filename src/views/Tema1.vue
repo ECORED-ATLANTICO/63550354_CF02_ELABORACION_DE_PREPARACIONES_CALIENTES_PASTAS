@@ -25,7 +25,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema1/img02.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Una salsa puede definirse como una preparación culinaria líquida o semilíquida que se sirve junto con los alimentos para realzar sus características organolépticas. Según el libro pastas y salsas italianas (instituto gastronómico cuisine art, 2020), las pastas una vez cocidas requieren siempre un condimento que les añada color y sabor.
+        p.mb-0 Una salsa puede definirse como una preparación culinaria líquida o semilíquida que se sirve junto con los alimentos para realzar sus características organolépticas. Según el libro Pastas y salsas italianas (Instituto Gastronómico Cuisine Art, 2020), las pastas una vez cocidas requieren siempre un condimento que les añada color y sabor.
 
     p.mb-4 Cualquiera sea el tipo de salsa elegida, debe verterse sobre la pasta recién escurrida para que se amalgame perfectamente con ella. La salsa para una pasta debe relevar el sabor de la misma con su perfume y no taparla.
 
@@ -85,7 +85,7 @@
             tbody
               tr
                 td Salsas de tomate
-                td <em>Sugo di pomodoro</em>, <em>Marinara</em>, <em>Napolitana</em>, <em>Arrabbiata</em>, <em>Amatriciana</em>
+                td <em>Sugo di pomodoro</em>, <em>Marinara</em>, Napolitana, <em>Arrabbiata</em>, <em>Amatriciana</em>
                 td Tomate, ajo, cebolla, albahaca, aceite de oliva
                 td Centro y sur de Italia (Lazio, Campania, Sicilia)
               tr
@@ -111,7 +111,7 @@
               tr
                 td Salsas a base de verduras y hongos
                 td <em>Funghi porcini</em>, <em>Melanzane</em> (berenjena), <em>Zucchine</em> (calabacín)
-                td Hongos porcini, berenjenas, calabacines, tomate, ajo, aceite de oliva
+                td Hongos <em>porcini</em>, berenjenas, calabacines, tomate, ajo, aceite de oliva
                 td Toscana, Umbría, Piamonte
 
 
@@ -141,11 +141,12 @@
         figure
           img(src="@/assets/curso/tema1/img07.png", data-aos="zoom-in")
       .col-lg-8.order-2.order-lg-1.mb-0.mb-lg-0
-        p.mb-3 El tomate es, sin duda, el ingrediente estrella de las salsas italianas. Introducido en europa desde américa en el siglo XVI, el tomate tardó varios siglos en integrarse plenamente en la cocina italiana, pero hoy es difícil concebir la gastronomía de este país sin él. 
+        p.mb-3 El tomate es, sin duda, el ingrediente estrella de las salsas italianas. Introducido en Europa desde América en el siglo XVI, el tomate tardó varios siglos en integrarse plenamente en la cocina italiana, pero hoy es difícil concebir la gastronomía de este país sin él. 
         .bg-color-02.p-4.br-15.mb-0
-          p.mb-0(data-aos="fade-right") Como señala el libro recetas de cocina italiana (recetas de rechupete, 2025), la salsa <em>napolitana</em> es quizás una de las más sencillas y sabrosas que se pueden encontrar en el inmenso repertorio de la cocina italiana clásica. Tomates de calidad, ajo y/o cebolla y albahaca fresca son todo lo que se necesita para preparar una deliciosa salsa <em>napolitana</em> casera.
+          p.mb-0(data-aos="fade-right") Como señala el libro Recetas de cocina italiana (Recetas de Rechupete, 2025), la salsa napolitana es quizás una de las más sencillas y sabrosas que se pueden encontrar en el inmenso repertorio de la cocina italiana clásica. Tomates de calidad, ajo y/o cebolla y albahaca fresca son todo lo que se necesita para preparar una deliciosa salsa napolitana casera.
 
 
+    h4.text-bold.mb-3 Salsa de tomate italianas
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-06")
@@ -182,7 +183,7 @@
                 figure
                   img(src="@/assets/curso/tema1/img10.png", data-aos="zoom-in")
 
-          div(titulo="Salsa <em>napolitana</em>")
+          div(titulo="Salsa napolitana")
             .row.align-items-center.justify-content-center
               .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-1
                 p.mb-3.ms-0.ms-lg-5 Salsa a base de tomate caracterizada por la incorporación de hierbas aromáticas que aportan aroma y sabor a la preparación. Su elaboración es sencilla y permite obtener una salsa versátil para acompañar diferentes tipos de pasta y otras preparaciones de inspiración italiana.
@@ -203,8 +204,11 @@
     img(src="@/assets/curso/tema1/img12.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-4
       .col-lg-10(data-aos="fade-right")
-        p.banner-text Italia cuenta con una amplia tradición quesera, reflejada también en su gastronomía. Quesos como parmesano, <em>pecorino</em>, <em>mozzarella</em>, <em>gorgonzola</em>, <em>ricotta</em> y provolone se emplean en diferentes preparaciones y aportan sabor, textura y cremosidad a las salsas para pasta. Entre las preparaciones más representativas en las que el queso desempeña un papel fundamental se encuentran la <em>carbonara</em>, la Alfredo y la salsa cuatro quesos.
+        p.banner-text Italia cuenta con una amplia tradición quesera, reflejada también en su gastronomía. Quesos como parmesano, <em>pecorino</em>, <em>mozzarella</em>, <em>gorgonzola</em>, <em>ricotta</em> y <em>provolone</em> se emplean en diferentes preparaciones y aportan sabor, textura y cremosidad a las salsas para pasta. Entre las preparaciones más representativas en las que el queso desempeña un papel fundamental se encuentran la <em>carbonara</em>, la Alfredo y la salsa cuatro quesos.
 
+    
+
+    h4.text-bold.mb-3 Salsas a base de queso
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
@@ -292,7 +296,7 @@
                 td Semiblando
                 td Suave, mantecoso
                 td Excelente fundido
-                td Salsas de queso, fondue
+                td Salsas de queso, <em>fondue</em>
 
 
 
@@ -303,7 +307,7 @@
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.svg")
           h3.titulo-con-imagen__texto Salsas a base de aceite y hierbas (pesto)
 
-    p.mb-4 El pesto es una de las salsas más emblemáticas de la cocina italiana, originaria de La Liguria. La palabra pesto viene del genovés <em>pestare</em>, que significa machacar o moler en un mortero, que es la forma en que tradicionalmente se prepara esta salsa (instituto gastronómico cuisine art, 2020).
+    p.mb-4 El pesto es una de las salsas más emblemáticas de la cocina italiana, originaria de La Liguria. La palabra pesto viene del genovés <em>pestare</em>, que significa machacar o moler en un mortero, que es la forma en que tradicionalmente se prepara esta salsa (Instituto Gastronómico Cuisine Art, 2020).
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-5.col-md-8.order-1.order-lg-1.mb-4.mb-lg-0
@@ -311,19 +315,20 @@
           img(src="@/assets/curso/tema1/img17.png", data-aos="zoom-in")
 
       .col-lg-7.order-2.order-lg-2.col-md-12.mb-0
+        h4.text-bold.mb-3 Tipos de pesto
         .bg-fondo-01.p-4
           SlyderA(tipo="b").bg-color-white.p-4.tarjeta
             .tarjeta.p-4.h-100
-              p.mb-0 <b>Pesto alla genovese (pesto verde):</b> sus ingredientes principales son albahaca fresca (hojas tiernas), piñones, ajo, queso parmesano y/o <em>pecorino</em>, y aceite de oliva virgen extra. Se prepara tradicionalmente en un mortero, majando los ajos con sal, luego añadiendo las hojas de albahaca poco a poco con movimientos circulares, luego los piñones, y finalmente los quesos y el aceite. Si no se tiene mortero, se puede usar una batidora o procesador de alimentos, aunque el resultado no es exactamente igual.
+              p.mb-0 <b><em>Pesto alla genovese</em> (pesto verde):</b> sus ingredientes principales son albahaca fresca (hojas tiernas), piñones, ajo, queso parmesano y/o <em>pecorino</em>, y aceite de oliva virgen extra. Se prepara tradicionalmente en un mortero, majando los ajos con sal, luego añadiendo las hojas de albahaca poco a poco con movimientos circulares, luego los piñones, y finalmente los quesos y el aceite. Si no se tiene mortero, se puede usar una batidora o procesador de alimentos, aunque el resultado no es exactamente igual.
 
             .tarjeta.p-4.h-100
-              p.mb-0 <b>Pesto rosso (pesto rojo o siciliano):</b> variante del pesto que se elabora con tomates secos. Este pesto tiene como ingrediente principal el tomate seco, aunque también puede incluir pimientos asados, queso <em>pecorino</em>, sal, aceite de oliva y, en algunas versiones, almendras en lugar de piñones.
+              p.mb-0 <b><em>Pesto rosso</em> (pesto rojo o siciliano):</b> variante del pesto que se elabora con tomates secos. Este pesto tiene como ingrediente principal el tomate seco, aunque también puede incluir pimientos asados, queso <em>pecorino</em>, sal, aceite de oliva y, en algunas versiones, almendras en lugar de piñones.
 
             .tarjeta.p-4.h-100
-              p.mb-0 <b>Pesto alla trapanese:</b> originario de Trapani, Sicilia. Se trata de una salsa cruda cuyos ingredientes principales son albahaca, tomate y almendra. Se supone que los barcos genoveses que se detenían en el Puerto de Trapani dejaron la tradición del pesto ligur, que los marineros de Trapani elaboraron con los productos de su tierra: tomates y almendras.
+              p.mb-0 <b><em>Pesto alla trapanese</em>:</b> originario de Trapani, Sicilia. Se trata de una salsa cruda cuyos ingredientes principales son albahaca, tomate y almendra. Se supone que los barcos genoveses que se detenían en el Puerto de Trapani dejaron la tradición del pesto ligur, que los marineros de Trapani elaboraron con los productos de su tierra: tomates y almendras.
 
             .tarjeta.p-4.h-100
-              p.mb-0 <b>Agliata:</b> salsa típica de la ciudad de Bosa, en Cerdeña. Se prepara con ajo triturado que se sofríe en aceite de oliva con tomate seco, condimentando con abundante vinagre de vino. Con la mezcla así obtenida se aliñan principalmente pescados marinos, pero también se usa para pastas.
+              p.mb-0 <b><em>Agliata</em>:</b> salsa típica de la ciudad de Bosa, en Cerdeña. Se prepara con ajo triturado que se sofríe en aceite de oliva con tomate seco, condimentando con abundante vinagre de vino. Con la mezcla así obtenida se aliñan principalmente pescados marinos, pero también se usa para pastas.
 
 
     .container
@@ -332,9 +337,10 @@
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.svg")
           h3.titulo-con-imagen__texto Salsas a base de carne (ragú)
 
-    p.mb-4 El ragú es una salsa de carne de cocción lenta, típica de la cocina italiana. La palabra ragú es una deformación del francés "ragoût". Se caracteriza por su larga cocción a fuego lento, que permite que los sabores se concentren y la carne se vuelva tierna y jugosa.
+    p.mb-4 El ragú es una salsa de carne de cocción lenta, típica de la cocina italiana. La palabra ragú es una deformación del francés "<em>ragoût</em>". Se caracteriza por su larga cocción a fuego lento, que permite que los sabores se concentren y la carne se vuelva tierna y jugosa.
 
 
+    h4.text-bold.mb-3 Comparación entre ragú boloñés y ragú napolitano
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-06")
@@ -342,6 +348,7 @@
             .row.align-items-center.justify-content-center
               .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-1
                 p.mb-3.ms-0.ms-lg-5 Originario de Bolonia, en la región de Emilia-Romaña, se prepara con carne de res picada o cortada finamente, panceta, zanahoria, cebolla, apio, tomate, vino y leche. Su cocción lenta permite integrar los ingredientes hasta obtener una salsa espesa y de textura uniforme.
+                p.mb-2.ms-0.ms-lg-5 <b>Características principales:</b>
                 p.mb-2.ms-0.ms-lg-5 <b>Carne:</b> picada o cortada finamente.
                 p.mb-2.ms-0.ms-lg-5 <b>Cocción:</b> lenta y prolongada.
                 p.mb-2.ms-0.ms-lg-5 <b>Textura:</b> espesa y uniforme.
@@ -354,6 +361,7 @@
             .row.align-items-center.justify-content-center
               .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-1
                 p.mb-3.ms-0.ms-lg-5 Originario de Nápoles, en la región de Campania, se caracteriza por utilizar trozos de carne de res, jamón y embutidos, acompañados de un sofrito de verduras, tomate y fondo de carne. Su cocción prolongada permite concentrar los sabores y conservar trozos de carne claramente identificables.
+                p.mb-2.ms-0.ms-lg-5 <b>Características principales:</b>
                 p.mb-2.ms-0.ms-lg-5 <b>Carne:</b> en trozos, con jamón y embutidos.
                 p.mb-2.ms-0.ms-lg-5 <b>Cocción:</b> muy lenta y prolongada.
                 p.mb-2.ms-0.ms-lg-5 <b>Textura:</b> espesa, con trozos de carne.
@@ -407,7 +415,7 @@
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.svg")
           h3.titulo-con-imagen__texto Salsas a base de verduras y hongos
 
-    p.mb-4.mb-lg-5 Las verduras y los hongos constituyen ingredientes relevantes en la elaboración de salsas para pasta y permiten obtener preparaciones con diferentes sabores, aromas y texturas. Su uso está asociado a la disponibilidad de productos locales y a las tradiciones gastronómicas de distintas regiones italianas. Entre las preparaciones representativas se encuentran las salsas a base de hongos porcini, berenjena y calabacín.
+    p.mb-4.mb-lg-5 Las verduras y los hongos constituyen ingredientes relevantes en la elaboración de salsas para pasta y permiten obtener preparaciones con diferentes sabores, aromas y texturas. Su uso está asociado a la disponibilidad de productos locales y a las tradiciones gastronómicas de distintas regiones italianas. Entre las preparaciones representativas se encuentran las salsas a base de hongos <em>porcini</em>, berenjena y calabacín.
     
 
     .bg-full-width.bg-fondo-01.p-5.mb-5
@@ -418,8 +426,8 @@
               figure
                 img(src="@/assets/curso/tema1/img24.png", data-aos="zoom-in")
             .col-lg-8.order-1.order-lg-1.mb-4.mb-lg-0
-              p.mb-2.fw-bold Salsa <em>funghi porcini</em> (hongos porcini)
-              p.mb-0 Tiene como ingrediente principal el hongo porcini, que puede utilizarse fresco o deshidratado. Cuando no está disponible, puede sustituirse por otros tipos de hongos o champiñones. Se prepara generalmente con cebolla, ajo, crema de leche, queso parmesano y perejil, obteniendo una salsa de textura cremosa y sabor característico.
+              p.mb-2.fw-bold Salsa <em>funghi porcini</em> (hongos <em>porcini</em>)
+              p.mb-0 Tiene como ingrediente principal el hongo <em>porcini</em>, que puede utilizarse fresco o deshidratado. Cuando no está disponible, puede sustituirse por otros tipos de hongos o champiñones. Se prepara generalmente con cebolla, ajo, crema de leche, queso parmesano y perejil, obteniendo una salsa de textura cremosa y sabor característico.
 
         .tarjeta.p-4.h-100
           .row.align-items-center.mb-0.justify-content-center
@@ -457,16 +465,16 @@
                 th Justificación
             tbody
               tr
-                td Spaghetti (larga, fina, redonda)
-                td <em>Carbonara</em>, <em>Amatriciana</em>, <em>Arrabbiata</em>, <em>Vongole</em>, Puttanesca
+                td <em>Spaghetti</em> (larga, fina, redonda)
+                td <em>Carbonara</em>, <em>Amatriciana</em>, <em>Arrabbiata</em>, <em>Vongole</em>, <em>Puttanesca</em>
                 td La superficie lisa permite que la salsa se adhiera bien; el grosor fino se complementa con salsas de textura media.
               tr
-                td Fettuccine / Tagliatelle (larga, plana, ancha)
-                td Alfredo, Ragù bolognese, <em>Funghi porcini</em>, <em>Quattro formaggi</em>
+                td <em>Fettuccine</em> / <em>Tagliatelle</em> (larga, plana, ancha)
+                td Alfredo, <em>Ragù bolognese</em>, <em>Funghi porcini</em>, <em>Quattro formaggi</em>
                 td La superficie ancha y plana captura salsas espesas y cremosas; ideal para salsas contundentes.
               tr
-                td Penne / Rigatoni (corta, tubular)
-                td <em>Arrabbiata</em>, Ragú napoletano, Salsas con trozos (verduras, carne)
+                td <em>Penne</em> / <em>Rigatoni</em> (corta, tubular)
+                td <em>Arrabbiata</em>, <em>Ragù napoletano</em>, Salsas con trozos (verduras, carne)
                 td La forma tubular y el corte oblicuo atrapan la salsa en el interior; perfectas para salsas con trozos.
               tr
                 td <em>Fusilli</em> / <em>Farfalle</em> (corta, con formas)
@@ -486,7 +494,7 @@
                 td La textura esponjosa absorbe bien las salsas; combinan con salsas suaves o intensas.
               tr
                 td Lasaña
-                td Ragù bolognese (para lasaña boloñesa), Ragú napolitano (para lasaña <em>napolitana</em>), Bechamel
+                td <em>Ragù bolognese</em> (para lasaña boloñesa), Ragú napolitano (para lasaña napolitana), Bechamel
                 td La estructura en capas permite intercalar la salsa y la bechamel; ideal para cocciones al horno.
 
 

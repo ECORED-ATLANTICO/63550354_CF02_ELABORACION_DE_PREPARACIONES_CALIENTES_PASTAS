@@ -7,7 +7,7 @@
 
     p.mb-2 Asimismo, el componente aborda la interpretación y aplicación de la receta estándar como herramienta para organizar la preparación, ajustar cantidades y controlar porciones y rendimientos. Estos conocimientos se articulan con las prácticas de gestión de los residuos generados durante la elaboración de alimentos, considerando su separación en la fuente, almacenamiento temporal, aprovechamiento y disposición final, de acuerdo con el código de colores y la normativa colombiana aplicable.
 
-    p.mb-4 Finalmente, se integran procedimientos relacionados con el registro de la gestión de residuos, el cierre de jornada, la limpieza y desinfección de las áreas y las medidas de bioseguridad. De esta manera, el componente articula la elaboración técnica de salsas con prácticas de higiene y manejo responsable de residuos, favoreciendo procesos gastronómicos orientados a la calidad, la inocuidad y la sostenibilidad
+    p.mb-4 Finalmente, se integran procedimientos relacionados con el registro de la gestión de residuos, el cierre de jornada, la limpieza y desinfección de las áreas y las medidas de bioseguridad. De esta manera, el componente articula la elaboración técnica de salsas con prácticas de higiene y manejo responsable de residuos, favoreciendo procesos gastronómicos orientados a la calidad, la inocuidad y la sostenibilidad.
 
   
     .row.justify-content-center

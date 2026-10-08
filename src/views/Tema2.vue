@@ -22,7 +22,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema2/img02.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Una receta estándar de salsa es un documento técnico que contiene información detallada y precisa sobre los ingredientes, cantidades, procedimiento, tiempos de cocción, rendimiento y costos de una preparación específica. Según el manual de pastas y salsas (instituto argentino de gastronomía, 2015), para lograr un buen resultado es fundamental que la cocción sea la adecuada y que los ingredientes se incorporen en el orden correcto.
+        p.mb-0 Una receta estándar de salsa es un documento técnico que contiene información detallada y precisa sobre los ingredientes, cantidades, procedimiento, tiempos de cocción, rendimiento y costos de una preparación específica. Según el manual Pastas y salsas (Instituto Argentino de Gastronomía, 2015), para lograr un buen resultado es fundamental que la cocción sea la adecuada y que los ingredientes se incorporen en el orden correcto.
    
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-12.col-xl-10
@@ -31,7 +31,6 @@
           span Componentes esenciales de una receta estándar de salsa
         .tabla-a.color-acento-contenido.tb-custom.mb-0
           table
-            caption(style="font-weight: normal;") Nota. SENA, (2026).
             thead
               tr
                 th Componente
@@ -100,8 +99,8 @@
           img(src="@/assets/curso/tema2/img03.png", data-aos="zoom-in")
       .col-lg-8.order-2.order-lg-1
         TabsA.color-acento-botones
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Sofrito (battuto)").align-content-center
-            p.mb-0 Es el primer paso de muchas salsas cocidas. Consiste en picar finamente verduras aromáticas (cebolla, zanahoria, apio, ajo) y rehogarlas en aceite de oliva o mantequilla a fuego lento hasta que estén tiernas y transparentes, sin que lleguen a dorarse. Según el manual de pastas y salsas (Instituto Argentino de Gastronomía, 2015), el <em>soffritto</em> es el punto de partida de numerosos estofados italianos, desde el sugo y el ragú para acompañar la pasta hasta los platos de carne como el ossobuco o el brasato.
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Sofrito (<em>battuto</em>)").align-content-center
+            p.mb-0 Es el primer paso de muchas salsas cocidas. Consiste en picar finamente verduras aromáticas (cebolla, zanahoria, apio, ajo) y rehogarlas en aceite de oliva o mantequilla a fuego lento hasta que estén tiernas y transparentes, sin que lleguen a dorarse. Según el manual Pastas y salsas (Instituto Argentino de Gastronomía, 2015), el <em>soffritto</em> es el punto de partida de numerosos estofados italianos, desde el <em>sugo</em> y el ragú para acompañar la pasta hasta los platos de carne como el <em>ossobuco</em> o el <em>brasato</em>.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Dorado de carnes o embutidos").align-content-center
             p.mb-0 En salsas como el ragú, después del sofrito se añade la carne (picada o en trozos) y se dora a fuego medio-alto para sellar los jugos.
@@ -109,7 +108,7 @@
           .tarjeta.color-acento-botones--borde.p-4(titulo="Deglaseado con vino").align-content-center
             p.mb-0 Después de dorar la carne, se añade vino (tinto o blanco, según la receta) y se deja evaporar el alcohol, raspando el fondo de la cacerola para incorporar los sabores caramelizados.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Cocción lenta (soffritto, stracotto)").align-content-center
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Cocción lenta (<em>soffritto</em>, <em>stracotto</em>)").align-content-center
             p.mb-0 Una vez añadidos el tomate, el caldo y los condimentos, la salsa se cocina a fuego muy lento (a veces durante horas) para que los sabores se concentren y las carnes se ablanden. El ragú napolitano puede cocinarse hasta 4 horas.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Espesado").align-content-center
@@ -172,7 +171,7 @@
           div(titulo="Textura")
             .row.align-items-center.justify-content-center
               .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-1
-                p.mb-0.ms-0.ms-lg-5 La salsa debe tener la consistencia adecuada para el tipo de pasta con la que se sirve. Las salsas para pastas largas (<em>spaghetti</em>, <em>linguine</em>) deben ser fluidas pero no aguadas, para que recubran la pasta sin escurrirse. Las salsas para pastas cortas (<em>penne</em>, <em>rigatoni</em>) pueden ser más espesas o con trozos, ya que la forma de la pasta ayuda a retener la salsa. Según el libro recetas de cocina italiana (Recetas de Rechupete, 2025), una salsa <em>carbonara</em> debe tener una textura cremosa y no debe cuajar el huevo.
+                p.mb-0.ms-0.ms-lg-5 La salsa debe tener la consistencia adecuada para el tipo de pasta con la que se sirve. Las salsas para pastas largas (<em>spaghetti</em>, <em>linguine</em>) deben ser fluidas pero no aguadas, para que recubran la pasta sin escurrirse. Las salsas para pastas cortas (<em>penne</em>, <em>rigatoni</em>) pueden ser más espesas o con trozos, ya que la forma de la pasta ayuda a retener la salsa. Según el libro Recetas de cocina italiana (Recetas de Rechupete, 2025), una salsa <em>carbonara</em> debe tener una textura cremosa y no debe cuajar el huevo.
               .col-lg-4.col-md-8.mb-0.mb-lg-0.order-2.order-lg-2
                 figure
                   img(src="@/assets/curso/tema2/img09.png", data-aos="zoom-in")
@@ -290,10 +289,10 @@
               p.mb-0 <b>Pastas cortas y tubulares (<em>penne</em>, <em>rigatoni</em>, <em>ziti</em>):</b> su forma, cavidades y, en algunos casos, superficie estriada facilitan la retención de salsas espesas y de ingredientes en trozos. Son apropiadas para ragús y salsas de verduras, carnes o quesos.
 
             .tarjeta.p-4.h-100
-              p.mb-0 <b>Pastas con formas (fusilli, farfalle, orecchiette):</b> sus pliegues, curvas y cavidades permiten retener salsas de consistencia media y pequeños ingredientes. Pueden acompañarse con pesto, salsas de verduras y otras preparaciones de textura similar.
+              p.mb-0 <b>Pastas con formas (<em>fusilli</em>, <em>farfalle</em>, <em>orecchiette</em>):</b> sus pliegues, curvas y cavidades permiten retener salsas de consistencia media y pequeños ingredientes. Pueden acompañarse con pesto, salsas de verduras y otras preparaciones de textura similar.
 
             .tarjeta.p-4.h-100
-              p.mb-0 <b>Pastas rellenas (ravioli, tortellini, agnolotti):</b> requieren acompañamientos que complementen el sabor del relleno sin predominar sobre él. Pueden servirse con mantequilla y hierbas, salsas ligeras o caldos, según el tipo de pasta y relleno.
+              p.mb-0 <b>Pastas rellenas (<em>ravioli</em>, <em>tortellini</em>, <em>agnolotti</em>):</b> requieren acompañamientos que complementen el sabor del relleno sin predominar sobre él. Pueden servirse con mantequilla y hierbas, salsas ligeras o caldos, según el tipo de pasta y relleno.
 
             .tarjeta.p-4.h-100
               p.mb-0 <b>Pastas para hornear (lasaña y canelones):</b> requieren salsas con suficiente consistencia para mantener la estructura y humedad de la preparación durante el horneado. Entre las combinaciones tradicionales se encuentran el ragú y la salsa bechamel.
@@ -313,7 +312,7 @@
                 img(src="@/assets/curso/tema2/img19.png", data-aos="zoom-in").w-md-50.mx-auto
             .col-lg-8.order-1.order-lg-2
               h4 ¿Sabías qué?
-              p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente Pódcast:
+              p(data-aos="fade-left").mb-4 Lo invitamos a consultar el siguiente pódcast.
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                 texto="Salsas para pastas: clasificación, técnicas de elaboración y maridaje"
                 tiempo

@@ -27,7 +27,6 @@
           span Normatividad colombiana aplicable a la gestión de residuos sólidos
         .tabla-a.tb-custom.mb-0
           table
-            caption(style="font-weight: normal;") Nota. SENA (2026).
             thead
               tr
                 th Norma
@@ -136,19 +135,15 @@
       .col-lg-8.order-2.order-lg-1
         TabsA.color-acento-botones
           .tarjeta.color-acento-botones--borde.p-4(titulo="Residuos orgánicos").align-content-center
-            h4 Residuos orgánicos aprovechables
             p.mb-0 Deben depositarse en recipientes con tapa y retirarse con la frecuencia necesaria para evitar la generación de olores y la proliferación de plagas. Los recipientes deben mantenerse limpios y someterse a lavado y desinfección después de su vaciado.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Residuos aprovechables").align-content-center
-            h4 Residuos aprovechables
             p.mb-0 Materiales como plástico, vidrio, metales, papel y cartón deben conservarse limpios y secos para facilitar su posterior aprovechamiento. Cuando corresponda, los envases deben estar libres de restos de alimentos y pueden reducirse de volumen, por ejemplo, mediante el plegado de cajas o la compactación de envases, sin comprometer las condiciones de seguridad.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Manejo diferenciado").align-content-center
-            h4 Residuos de manejo diferenciado
             p.mb-0 El aceite de cocina usado debe almacenarse en recipientes resistentes, cerrados y debidamente identificados, evitando mezclarlo con otros residuos o verterlo en lavaplatos, sifones o sistemas de alcantarillado. Otros residuos que requieran manejo especial, como pilas, bombillas o determinados envases de productos químicos, deben separarse y gestionarse de acuerdo con las disposiciones aplicables y mediante los sistemas de recolección o gestores autorizados correspondientes.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Área de almacenamiento").align-content-center
-            h4 Área de almacenamiento temporal
             p.mb-0 Debe estar separada de las zonas de preparación y almacenamiento de alimentos y mantenerse en condiciones que faciliten la limpieza, ventilación, control de plagas y protección de los residuos. Asimismo, su ubicación debe permitir el traslado y la recolección de los residuos sin interferir con las actividades de elaboración de alimentos.
 
     separador
@@ -165,7 +160,6 @@
           span Opciones de aprovechamiento para residuos generados en la elaboración de pastas y salsas
         .tabla-a.color-acento-contenido.tb-custom.mb-0
           table
-            caption(style="font-weight: normal;") Nota. SENA (2026).
             thead
               tr
                 th Tipo de residuo
@@ -207,6 +201,7 @@
         .bg-color-04.p-4.br-15.mb-0
           p.mb-0(data-aos="fade-right") En los establecimientos gastronómicos, comprender este proceso permite aplicar prácticas adecuadas para el manejo de los residuos derivados de la elaboración de alimentos. A continuación, se presentan las principales etapas que conforman este ciclo y la relación existente entre ellas.
 
+    h4.text-bold.mb-3 Ciclo de gestión integral de residuos
     .row.justify-content-center.mb-4
       .col-lg-12.col-xl-10
         PasosA.color-primario.mb-0(tipo="n")
@@ -272,7 +267,6 @@
           span Bitácora ambiental: elementos mínimos que debe contener
         .tabla-a.color-acento-contenido.tb-custom.mb-0
           table
-            caption(style="font-weight: normal;") Nota. SENA (2026).
             thead
               tr
                 th Campo
@@ -388,7 +382,6 @@
           span Procedimiento de cierre de jornada para disposición de residuos
         .tabla-a.color-acento-contenido.tb-custom.mb-0
           table
-            caption(style="font-weight: normal;") Nota. SENA (2026).
             thead
               tr
                 th(style="width: 10%;") Paso
@@ -445,7 +438,6 @@
           span Lista de verificación de residuos 
         img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema5/img22.png", alt="La figura 1, describe una lista de verificación para el cierre de jornada y manejo de residuos. Incluye diez controles relacionados con retiro y clasificación de residuos, cierre de bolsas, condiciones de los materiales aprovechables, traslado al almacenamiento temporal, lavado y desinfección de contenedores, limpieza del área, diligenciamiento de la bitácora ambiental, ausencia de residuos de alimentos en superficies y almacenamiento adecuado del aceite de cocina usado. Contiene espacios para observaciones, firma del responsable y fecha.")
         img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema5/img23.png", alt="La figura 1, describe una lista de verificación para el cierre de jornada y manejo de residuos. Incluye diez controles relacionados con retiro y clasificación de residuos, cierre de bolsas, condiciones de los materiales aprovechables, traslado al almacenamiento temporal, lavado y desinfección de contenedores, limpieza del área, diligenciamiento de la bitácora ambiental, ausencia de residuos de alimentos en superficies y almacenamiento adecuado del aceite de cocina usado. Contiene espacios para observaciones, firma del responsable y fecha.")
-        figcaption Nota. SENA, (2026).
     separador
     
     #t_5_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -460,7 +452,6 @@
           span Procedimiento de limpieza y desinfección para áreas de residuos
         .tabla-a.color-acento-contenido.tb-custom.mb-0
           table
-            caption(style="font-weight: normal;") Nota. SENA (2026).
             thead
               tr
                 th Etapa
@@ -516,7 +507,6 @@
           span Concentraciones de desinfectantes para áreas de residuos
         .tabla-a.color-acento-contenido.tb-custom.mb-0
           table
-            caption(style="font-weight: normal;") Nota. SENA (2026).
             thead
               tr
                 th Superficie o elemento
@@ -569,6 +559,7 @@
         figure
           img(src="@/assets/curso/tema5/img26.png", data-aos="zoom-in")
       .col-lg-7.order-1.order-lg-1
+        h4.text-bold.mb-3 Medidas de bioseguridad
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Elementos de protección personal") Utilizar los elementos de protección definidos según la actividad y el nivel de riesgo durante la manipulación, traslado y almacenamiento de residuos.
           p(numero="2" titulo="Higiene de manos") Realizar el lavado de manos después de manipular residuos y retirar los guantes, especialmente antes de retomar actividades relacionadas con alimentos.
@@ -649,7 +640,6 @@
           span Procedimiento en caso de accidente con residuos (cortes, exposición a químicos)
         .tabla-a.color-acento-contenido.tb-custom.mb-0
           table
-            caption(style="font-weight: normal;") Nota. SENA (2026).
             thead
               tr
                 th Tipo de accidente
@@ -689,7 +679,7 @@
                 img(src="@/assets/curso/tema2/img19.png", data-aos="zoom-in").w-md-50.mx-auto
             .col-lg-8.order-1.order-lg-2
               h4 ¿Sabías qué?
-              p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente Pódcast:
+              p(data-aos="fade-left").mb-4 Lo invitamos a consultar el siguiente pódcast
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                 texto="Gestión de residuos en establecimientos gastronómicos: clasificación, normatividad y cierre de jornada"
                 tiempo
