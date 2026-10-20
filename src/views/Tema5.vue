@@ -90,7 +90,16 @@
         .bg-color-02.p-4.br-15.mb-0
           p.mb-0(data-aos="fade-right") Los residuos deben depositarse en el recipiente correspondiente inmediatamente después de su generación y el personal debe conocer los criterios para realizar correctamente esta separación. 
 
-    p.mb-4 Posteriormente, los residuos se trasladan al área destinada para su almacenamiento temporal, donde deben mantenerse condiciones adecuadas de limpieza, ventilación y control de plagas hasta su recolección o entrega para aprovechamiento o disposición final.
+    p.mb-5 Posteriormente, los residuos se trasladan al área destinada para su almacenamiento temporal, donde deben mantenerse condiciones adecuadas de limpieza, ventilación y control de plagas hasta su recolección o entrega para aprovechamiento o disposición final.
+
+
+    .container
+      .titulo-con-imagen.mb-5(data-aos="fade-right")
+        .titulo-con-imagen__fondo
+          img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.svg")
+          h3.titulo-con-imagen__texto Buenas prácticas para la separación de residuos en cocina
+    
+    p.mb-3 Clasificación correcta de residuos según la Resolución 2184 de 2019:
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-5.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
@@ -102,22 +111,22 @@
           SlyderA(tipo="b").bg-color-white.p-4.tarjeta
             .tarjeta.p-4.h-100
               h4.mb-2 Enjuagar envases antes de reciclar
-              p.mb-0 Los envases de tomate, leche, crema, aceite deben enjuagarse con agua para eliminar residuos de alimentos antes de depositarlos en el contenedor blanco. Esto evita olores y contaminación de otros materiales reciclables.
+              p.mb-0 Los envases de tomate, leche y aceite deben enjuagarse antes de depositarlos en el contenedor blanco.
             .tarjeta.p-4.h-100
               h4.mb-2 No mezclar residuos orgánicos con plásticos
-              p.mb-0 Las cáscaras de verduras y frutas deben ir al contenedor verde; los plásticos (envolturas, botellas) al contenedor blanco.
+              p.mb-0 Cáscaras de verduras y frutas al contenedor verde; plásticos al contenedor blanco.
             .tarjeta.p-4.h-100
               h4.mb-2 Aceite de cocina usado
-              p.mb-0 Aceite de cocina usado: no verterlo por el desagüe. Almacenarlo en botellas plásticas cerradas y entregarlo a un gestor autorizado para su aprovechamiento (biodiésel, jabones).
+              p.mb-0 No verter por el desagüe. Almacenar en botellas cerradas y entregar a gestor autorizado.
             .tarjeta.p-4.h-100
               h4.mb-2 Papel y cartón contaminado
-              p.mb-0 Papel y cartón contaminado: las servilletas usadas, los paños de papel con restos de grasa o alimentos no son reciclables; van al contenedor negro.
+              p.mb-0 Servilletas usadas y papeles con restos de alimentos van al contenedor negro (no son reciclables).
             .tarjeta.p-4.h-100
               h4.mb-2 Vidrio
-              p.mb-0 Los frascos de vidrio (salsas, conservas) van al contenedor blanco. Asegurarse de que estén vacíos y, si es posible, enjuagados.
+              p.mb-0 Frascos de vidrio (salsas, conservas) al contenedor blanco. Deben estar vacíos y enjuagados.
             .tarjeta.p-4.h-100
               h4.mb-2 Posos de café y filtros de papel
-              p.mb-0 Los pozos de café son residuos orgánicos (contenedor verde). Los filtros de papel de café, si no están plastificados, también pueden ir al contenedor verde para compostaje.
+              p.mb-0 Posos de café y filtros de papel no plastificados van al contenedor verde para compostaje.
 
 
     .container
@@ -134,16 +143,16 @@
           img(src="@/assets/curso/tema5/img06.png", data-aos="zoom-in")
       .col-lg-8.order-2.order-lg-1
         TabsA.color-acento-botones
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Residuos orgánicos").align-content-center
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Residuos orgánicos aprovechables").align-content-center
             p.mb-0 Deben depositarse en recipientes con tapa y retirarse con la frecuencia necesaria para evitar la generación de olores y la proliferación de plagas. Los recipientes deben mantenerse limpios y someterse a lavado y desinfección después de su vaciado.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Residuos aprovechables").align-content-center
             p.mb-0 Materiales como plástico, vidrio, metales, papel y cartón deben conservarse limpios y secos para facilitar su posterior aprovechamiento. Cuando corresponda, los envases deben estar libres de restos de alimentos y pueden reducirse de volumen, por ejemplo, mediante el plegado de cajas o la compactación de envases, sin comprometer las condiciones de seguridad.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Manejo diferenciado").align-content-center
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Residuos de manejo diferenciado").align-content-center
             p.mb-0 El aceite de cocina usado debe almacenarse en recipientes resistentes, cerrados y debidamente identificados, evitando mezclarlo con otros residuos o verterlo en lavaplatos, sifones o sistemas de alcantarillado. Otros residuos que requieran manejo especial, como pilas, bombillas o determinados envases de productos químicos, deben separarse y gestionarse de acuerdo con las disposiciones aplicables y mediante los sistemas de recolección o gestores autorizados correspondientes.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Área de almacenamiento").align-content-center
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Área de almacenamiento temporal").align-content-center
             p.mb-0 Debe estar separada de las zonas de preparación y almacenamiento de alimentos y mantenerse en condiciones que faciliten la limpieza, ventilación, control de plagas y protección de los residuos. Asimismo, su ubicación debe permitir el traslado y la recolección de los residuos sin interferir con las actividades de elaboración de alimentos.
 
     separador
@@ -320,13 +329,13 @@
             .tarjeta.p-4.h-100
               .row.align-items-center.mb-0
                 .col-lg
-                  p.mb-0 Realizar una caracterización inicial de los residuos generados: pesar y clasificar los residuos durante una semana para conocer los volúmenes y tipos.
+                  p.mb-0 Realizar una caracterización inicial de los residuos generados (pesar y clasificar los residuos durante una semana para conocer los volúmenes y tipos).
                 .col-lg-auto.d-none.d-lg-block
                   img.d-none.d-lg-flex(src="@/assets/curso/tema5/img16.svg", style="max-width: 90px").mx-auto
             .tarjeta.p-4.h-100
               .row.align-items-center.mb-0
                 .col-lg
-                  p.mb-0 Establecer metas de reducción y aprovechamiento: por ejemplo, reducir en 20 % los residuos enviados al relleno sanitario en 6 meses.
+                  p.mb-0 Establecer metas de reducción y aprovechamiento (por ejemplo, reducir en 20 % los residuos enviados al relleno sanitario en 6 meses).
                 .col-lg-auto.d-none.d-lg-block
                   img.d-none.d-lg-flex(src="@/assets/curso/tema5/img17.svg", style="max-width: 90px").mx-auto
             .tarjeta.p-4.h-100

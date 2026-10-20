@@ -146,7 +146,7 @@
           p.mb-0(data-aos="fade-right") Como señala el libro Recetas de cocina italiana (Recetas de Rechupete, 2025), la salsa napolitana es quizás una de las más sencillas y sabrosas que se pueden encontrar en el inmenso repertorio de la cocina italiana clásica. Tomates de calidad, ajo y/o cebolla y albahaca fresca son todo lo que se necesita para preparar una deliciosa salsa napolitana casera.
 
 
-    h4.text-bold.mb-3 Salsa de tomate italianas
+    h4.text-bold.mb-3 Salsas de tomate italianas
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-06")

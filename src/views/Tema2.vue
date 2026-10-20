@@ -199,7 +199,13 @@
               .col-lg-4.col-md-8.mb-0.mb-lg-0.order-2.order-lg-2
                 figure
                   img(src="@/assets/curso/tema2/img12.png", data-aos="zoom-in")
-    
+   
+    .container
+      .titulo-con-imagen.mb-5(data-aos="fade-right")
+        .titulo-con-imagen__fondo
+          img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.svg")
+          h3.titulo-con-imagen__texto Lista de comprobación (checklist) de calidad para salsas
+          
     .bg-full-width.bg-fondo-01.p-5.mb-5
       SlyderA(tipo="b").bg-color-white.p-4.tarjeta
         .tarjeta.p-4.h-100
@@ -219,6 +225,9 @@
                 li.d-flex
                   i.fas.fa-check-circle.fa-xs(style="color: #FE9800;")
                   p.mb-0 ¿Los ingredientes perecederos (crema, huevos, quesos) están a temperatura adecuada?
+                li.d-flex
+                  i.fas.fa-check-circle.fa-xs(style="color: #FE9800;")
+                  p.mb-0 ¿Se ha realizado el <em>mise en place</em> (utensilios, equipos, recipientes listos)?
 
         .tarjeta.p-4.h-100
           .row.align-items-center.mb-0.justify-content-center
@@ -230,10 +239,13 @@
               ul.lista-ul.mb-0
                 li.d-flex
                   i.fas.fa-check-circle.fa-xs(style="color: #FE9800;")
-                  p.mb-0 ¿Se ha seguido el procedimiento paso a paso?
+                  p.mb-0 ¿Se ha seguido el procedimiento paso a paso de la receta?
                 li.d-flex
                   i.fas.fa-check-circle.fa-xs(style="color: #FE9800;")
-                  p.mb-0 ¿Se han respetado los tiempos de cocción?
+                  p.mb-0 ¿Se han respetado los tiempos de cocción indicados?
+                li.d-flex
+                  i.fas.fa-check-circle.fa-xs(style="color: #FE9800;")
+                  p.mb-0 ¿Se ha evitado que la salsa se queme o se pegue (revolver constantemente si es necesario)?
                 li.d-flex
                   i.fas.fa-check-circle.fa-xs(style="color: #FE9800;")
                   p.mb-0 ¿Se ha corregido la sazón (sal, pimienta, acidez) antes de finalizar?
@@ -257,7 +269,7 @@
                   p.mb-0 ¿El sabor es equilibrado (salado, ácido, dulce, umami)?
                 li.d-flex
                   i.fas.fa-check-circle.fa-xs(style="color: #FE9800;")
-                  p.mb-0 ¿La temperatura de servicio es la correcta?
+                  p.mb-0 ¿La temperatura de servicio es la correcta (caliente para ragús y cremas, ambiente para pesto)?
                 li.d-flex
                   i.fas.fa-check-circle.fa-xs(style="color: #FE9800;")
                   p.mb-0 ¿Se ha registrado el rendimiento real para comparar con el rendimiento estándar?

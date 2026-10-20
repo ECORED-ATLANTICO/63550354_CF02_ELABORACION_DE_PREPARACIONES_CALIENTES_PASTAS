@@ -34,7 +34,7 @@
             p.mb-0 Son aquellos que pueden ser sometidos a un proceso de aprovechamiento, como el reciclaje. Incluyen papel, cartón, plásticos (botellas, envases), vidrio (botellas, frascos), metales (latas) y algunos textiles.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Residuos no aprovechables").align-content-center
             p.mb-0 Son aquellos que no pueden ser reciclados o reutilizados. Incluyen papeles y cartones contaminados con alimentos (servilletas usadas, envases de comida rápida), plásticos de un solo uso no reciclables, icopor, residuos sanitarios (toallas húmedas, papel higiénico, pañuelos desechables).
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Residuos orgánicos").align-content-center
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Residuos orgánicos (biodegradables)").align-content-center
             p.mb-0 Son aquellos que se descomponen naturalmente por acción biológica. Incluyen restos de alimentos (cáscaras de verduras y frutas, restos de comidas, cáscaras de huevo), residuos de jardinería (hojas, ramas), restos de café y té.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Residuos peligrosos").align-content-center
             p.mb-0 Son aquellos que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o infecciosas representan un riesgo para la salud humana o el medio ambiente. En cocina, incluyen aceites de cocina usados, pilas, bombillas, envases de productos de limpieza (cloro, desengrasantes, detergentes fuertes).

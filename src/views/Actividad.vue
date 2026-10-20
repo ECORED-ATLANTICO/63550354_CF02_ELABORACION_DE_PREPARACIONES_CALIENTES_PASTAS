@@ -58,7 +58,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Así es, las salsas en la cocina italiana tienen como función realzar el sabor, aportar humedad y mejorar la textura y presentación de la pasta.',
+            'Así es, las salsas en la cocina italiana tienen como función realzar el sabor, aportar humedad y mejorar la textura y presentación de la pasta.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -125,7 +125,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El ragú a la boloñesa se elabora tradicionalmente con carne picada, mientras que el ragú napolitano se caracteriza por usar trozos irregulares de carne de buey, jamón y embutidos.',
+            'El ragú a la boloñesa se elabora tradicionalmente con carne picada, mientras que el ragú napolitano se caracteriza por usar trozos irregulares de carne de buey, jamón y embutidos.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -225,7 +225,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El factor de conversión se calcula dividiendo las porciones deseadas entre las porciones originales de la receta, y se usa para ajustar la cantidad de cada ingrediente.',
+            'El factor de conversión se calcula dividiendo las porciones deseadas entre las porciones originales de la receta, y se usa para ajustar la cantidad de cada ingrediente.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -292,7 +292,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El código de colores establece el contenedor verde para los residuos orgánicos aprovechables, como cáscaras de verduras y restos de alimentos.',
+            'El código de colores establece el contenedor verde para los residuos orgánicos aprovechables, como cáscaras de verduras y restos de alimentos.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -393,7 +393,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El cierre de jornada es un procedimiento crítico que asegura la higiene y seguridad, evitando la proliferación de plagas, malos olores y contaminación cruzada.',
+            'El cierre de jornada es un procedimiento crítico que asegura la higiene y seguridad, evitando la proliferación de plagas, malos olores y contaminación cruzada.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -495,7 +495,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Las salsas calientes como ragú, tomate o crema deben servirse a temperatura alta, específicamente entre 65 °C y 75 °C, para garantizar su sabor e inocuidad.',
+            'Las salsas calientes como ragú, tomate o crema deben servirse a temperatura alta, específicamente entre 65 °C y 75 °C, para garantizar su sabor e inocuidad.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -562,7 +562,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El código de colores establece el contenedor negro para los residuos no aprovechables, como las servilletas de papel usadas.',
+            'El código de colores establece el contenedor negro para los residuos no aprovechables, como las servilletas de papel usadas.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -664,7 +664,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La bitácora ambiental debe registrar al menos: fecha, tipo de residuo, cantidad generada, forma de almacenamiento, gestor responsable y firma del encargado.',
+            'La bitácora ambiental debe registrar al menos: fecha, tipo de residuo, cantidad generada, forma de almacenamiento, gestor responsable y firma del encargado.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
