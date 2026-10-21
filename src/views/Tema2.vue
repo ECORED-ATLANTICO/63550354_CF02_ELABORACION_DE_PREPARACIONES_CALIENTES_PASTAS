@@ -204,7 +204,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.svg")
-          h3.titulo-con-imagen__texto Lista de comprobación (checklist) de calidad para salsas
+          h3.titulo-con-imagen__texto Lista de comprobación (#[em checklist]) de calidad para salsas
           
     .bg-full-width.bg-fondo-01.p-5.mb-5
       SlyderA(tipo="b").bg-color-white.p-4.tarjeta
@@ -324,7 +324,7 @@
                 img(src="@/assets/curso/tema2/img19.png", data-aos="zoom-in").w-md-50.mx-auto
             .col-lg-8.order-1.order-lg-2
               h4 ¿Sabías qué?
-              p(data-aos="fade-left").mb-4 Lo invitamos a consultar el siguiente pódcast.
+              p(data-aos="fade-left").mb-4 Lo invitamos a consultar el siguiente pódcast:
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                 texto="Salsas para pastas: clasificación, técnicas de elaboración y maridaje"
                 tiempo
