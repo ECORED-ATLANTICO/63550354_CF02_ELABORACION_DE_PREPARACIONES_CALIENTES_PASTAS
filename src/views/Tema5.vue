@@ -688,7 +688,7 @@
                 img(src="@/assets/curso/tema2/img19.png", data-aos="zoom-in").w-md-50.mx-auto
             .col-lg-8.order-1.order-lg-2
               h4 ¿Sabías qué?
-              p(data-aos="fade-left").mb-4 Lo invitamos a consultar el siguiente pódcast
+              p(data-aos="fade-left").mb-4 Lo invitamos a consultar el siguiente pódcast:
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                 texto="Gestión de residuos en establecimientos gastronómicos: clasificación, normatividad y cierre de jornada"
                 tiempo
