@@ -474,27 +474,27 @@
                 td La superficie ancha y plana captura salsas espesas y cremosas; ideal para salsas contundentes.
               tr
                 td <em>Penne</em> / <em>Rigatoni</em> (corta, tubular)
-                td <em>Arrabbiata</em>, <em>Ragù napoletano</em>, Salsas con trozos (verduras, carne)
+                td <em>Arrabbiata</em>, <em>Ragù napoletano</em>, salsas con trozos (verduras, carne)
                 td La forma tubular y el corte oblicuo atrapan la salsa en el interior; perfectas para salsas con trozos.
               tr
                 td <em>Fusilli</em> / <em>Farfalle</em> (corta, con formas)
-                td Pesto, Salsas ligeras de verduras, Ensaladas de pasta
+                td Pesto, salsas ligeras de verduras, ensaladas de pasta
                 td Las formas irregulares capturan la salsa en sus hendiduras; ideales para salsas frías o ligeras.
               tr
                 td <em>Pappardelle</em> (larga, muy ancha)
-                td <em>Ragù di cinghiale</em> (jabalí), Salsas de caza, Ragús contundentes
+                td <em>Ragù di cinghiale</em> (jabalí), salsas de caza, ragús contundentes
                 td La anchura soporta salsas muy pesadas; cada tira ancha permite una generosa cantidad de salsa.
               tr
                 td <em>Ravioli</em> / <em>Tortellini</em> (rellenas)
-                td Salsa de mantequilla y salvia, Salsa de tomate ligera, Crema de queso
+                td Salsa de mantequilla y salvia, salsa de tomate ligera, crema de queso
                 td Las salsas ligeras no opacan el sabor del relleno; la mantequilla y salvia realzan sin abrumar.
               tr
                 td Ñoquis
-                td Pesto, Salsa de <em>gorgonzola</em>, Salsa de tomate
+                td Pesto, salsa de <em>gorgonzola</em>, salsa de tomate
                 td La textura esponjosa absorbe bien las salsas; combinan con salsas suaves o intensas.
               tr
                 td Lasaña
-                td <em>Ragù bolognese</em> (para lasaña boloñesa), Ragú napolitano (para lasaña napolitana), Bechamel
+                td <em>Ragù bolognese</em> (para lasaña boloñesa), ragú napolitano (para lasaña napolitana), bechamel
                 td La estructura en capas permite intercalar la salsa y la bechamel; ideal para cocciones al horno.
 
 

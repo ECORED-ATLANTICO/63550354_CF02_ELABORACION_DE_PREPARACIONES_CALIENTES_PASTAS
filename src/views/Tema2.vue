@@ -195,7 +195,7 @@
           div(titulo="Temperatura de servicio")
             .row.align-items-center.justify-content-center
               .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-1
-                p.mb-0.ms-0.ms-lg-5 Las salsas calientes (ragú, tomate, crema) deben servirse a temperatura alta (65-75 °C). Las salsas frías o a temperatura ambiente (pesto) no deben calentarse (el calor degrada el color y sabor de la albahaca).
+                p.mb-0.ms-0.ms-lg-5 Las salsas calientes (ragú, tomate, crema) deben servirse a temperatura alta (65-75 °C). Las salsas frías o a temperatura ambiente (pesto) no deben calentarse (el calor degrada el olor y sabor de la albahaca).
               .col-lg-4.col-md-8.mb-0.mb-lg-0.order-2.order-lg-2
                 figure
                   img(src="@/assets/curso/tema2/img12.png", data-aos="zoom-in")

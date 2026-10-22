@@ -128,6 +128,8 @@
               h4.mb-2 Posos de café y filtros de papel
               p.mb-0 Posos de café y filtros de papel no plastificados van al contenedor verde para compostaje.
 
+    .bg-color-02.px-4.py-3.br-15.mb-5
+      p.mb-0 #[b Recuerda:] la correcta separación de residuos contribuye al cuidado del medio ambiente y permite el aprovechamiento de materiales reciclables y orgánicos. ¡Separa bien, recicla mejor!
 
     .container
       .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -570,13 +572,13 @@
       .col-lg-7.order-1.order-lg-1
         h4.text-bold.mb-3 Medidas de bioseguridad
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="Elementos de protección personal") Utilizar los elementos de protección definidos según la actividad y el nivel de riesgo durante la manipulación, traslado y almacenamiento de residuos.
-          p(numero="2" titulo="Higiene de manos") Realizar el lavado de manos después de manipular residuos y retirar los guantes, especialmente antes de retomar actividades relacionadas con alimentos.
-          p(numero="3" titulo="Separación de áreas") Mantener las zonas destinadas a residuos separadas de las áreas de preparación y almacenamiento de alimentos, evitando posibles fuentes de contaminación cruzada.
-          p(numero="4" titulo="Capacitación del personal") Fortalecer periódicamente los conocimientos sobre separación de residuos, uso de elementos de protección, limpieza, desinfección y prácticas de bioseguridad.
-          p(numero="5" titulo="Señalización") Identificar las áreas y recipientes destinados al manejo de residuos mediante información clara que facilite su correcta separación y almacenamiento.
-          p(numero="6" titulo="Control de plagas") Mantener medidas preventivas y de control integrado de plagas en las áreas de almacenamiento de residuos, de acuerdo con el programa de saneamiento del establecimiento.
-          p(numero="7" titulo="Manejo de derrames") Atender los derrames de manera inmediata, utilizando los elementos y procedimientos establecidos según el tipo de sustancia, y realizar posteriormente la limpieza y desinfección del área afectada.
+          p(numero="A" titulo="Elementos de protección personal") Utilizar los elementos de protección definidos según la actividad y el nivel de riesgo durante la manipulación, traslado y almacenamiento de residuos.
+          p(numero="B" titulo="Higiene de manos") Realizar el lavado de manos después de manipular residuos y retirar los guantes, especialmente antes de retomar actividades relacionadas con alimentos.
+          p(numero="C" titulo="Separación de áreas") Mantener las zonas destinadas a residuos separadas de las áreas de preparación y almacenamiento de alimentos, evitando posibles fuentes de contaminación cruzada.
+          p(numero="D" titulo="Capacitación del personal") Fortalecer periódicamente los conocimientos sobre separación de residuos, uso de elementos de protección, limpieza, desinfección y prácticas de bioseguridad.
+          p(numero="E" titulo="Señalización") Identificar las áreas y recipientes destinados al manejo de residuos mediante información clara que facilite su correcta separación y almacenamiento.
+          p(numero="F" titulo="Control de plagas") Mantener medidas preventivas y de control integrado de plagas en las áreas de almacenamiento de residuos, de acuerdo con el programa de saneamiento del establecimiento.
+          p(numero="G" titulo="Manejo de derrames") Atender los derrames de manera inmediata, utilizando los elementos y procedimientos establecidos según el tipo de sustancia, y realizar posteriormente la limpieza y desinfección del área afectada.
         
 
 
@@ -676,7 +678,7 @@
 
     
     .bg-color-02.px-4.py-3.br-15.mb-5
-      p.mb-0 Para reforzar sus conocimientos sobre clasificación, manejo de residuos y cierre de jornada, consulte el pódcast “Gestión de residuos en establecimientos gastronómicos: clasificación, normatividad y cierre de jornada”.
+      p.mb-0 Para reforzar sus conocimientos sobre clasificación, manejo de residuos y cierre de jornada, lo invitamos a consultar el siguiente pódcast “Gestión de residuos en establecimientos gastronómicos: clasificación, normatividad y cierre de jornada”.
       
   
     .row.justify-content-center.align-items-center.mb-5

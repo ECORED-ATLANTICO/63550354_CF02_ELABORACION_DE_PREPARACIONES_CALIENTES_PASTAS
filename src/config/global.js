@@ -226,7 +226,7 @@ export default {
         'Registro documental donde se anotan las cantidades y los tipos de residuos generados, así como su almacenamiento y disposición final en un establecimiento.',
     },
     {
-      termino: 'Carbonara',
+      termino: '<em>Carbonara</em>',
       significado:
         'Salsa italiana originaria de Roma, elaborada a base de huevos, queso (<em>pecorino</em> o parmesano), panceta o <em>guanciale</em> y pimienta negra. No lleva nata en su versión original.',
     },
@@ -256,7 +256,7 @@ export default {
         'Arte de combinar armoniosamente una salsa con un tipo específico de pasta, o un vino con un plato, para realzar sus cualidades.',
     },
     {
-      termino: 'Pesto',
+      termino: '<em>Pesto</em>',
       significado:
         'Salsa italiana originaria de Liguria, elaborada a base de albahaca, piñones, ajo, queso parmesano y aceite de oliva.',
     },
@@ -298,8 +298,7 @@ export default {
       link: 'https://mayrasandy.wordpress.com/wp-content/uploads/2012/08/el-gran-libro-de-la-cocina-italiana.pdf',
     },
     {
-      referencia:
-        'de Gastronomía IAG., I. A. (2022). <em>Pastas y Salsas</em>.',
+      referencia: 'Gastronomía IAG., I. A. (2022). <em>Pastas y Salsas</em>.',
       link: 'https://pdfcoffee.com/pastas-y-salsas-manual-de-teoria-1-pdf-free.html',
     },
     {
